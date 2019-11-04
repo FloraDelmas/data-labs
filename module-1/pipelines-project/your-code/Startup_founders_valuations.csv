@@ -1,0 +1,573 @@
+,Full_Name,Primary_Company_x,Bachelor_University,Bachelor_Studies,Degree_Type,Master_Institution,Master_Studies,Graduate_Diploma,Years_of_Study,Years_of_Employment,Cat_YP,Previous_startups,Consulting_before_start-up,Ever_served_as_TA_Teacher_Professor_Mentor,Worked_as_product_manager_director_head_VP,Worked_at_Google,Worked_at_Microsoft,Worked_in_Sales,Stanford_or_Berkeley,Ivy_League,Seed_Valuation,A_Valuation,B_Valuation,Valuation_IncreaseSeedA,Valuation_IncreaseAB
+0,Chad Hurley,YouTube,Indiana University of Pennsylvania,Design,Unspecified,No Master,No Master,No Master,4,4.0,2 to 5,0,0,0,1,1,0,0,0,0,0.0,14000000.0,88400000.0,0.0,6.31
+1,Gwyneth Paltrow,Goop Inc.,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,12.0,Up to 10,0,0,0,1,0,0,0,0,0,0.0,40000000.0,65000000.0,0.0,1.62
+2,Jason Calacanis,Inside.com,Fordham University,Psychology,BA,No Master,No Master,No Master,4,4.0,2 to 5,3,0,0,1,0,0,0,0,0,7000000.0,11250000.0,0.0,1.61,0.0
+3,Tony Fadell,Nest Labs,University of Michigan,Computer Science,BS,No Master,No Master,No Master,4,18.0,Up to 10,1,0,0,1,0,0,0,0,0,2700000.0,49210000.0,288120000.0,18.23,5.85
+4,Matt Mullenweg,Automattic,University of Houston,Unspecified,Unspecified,No Master,No Master,No Master,4,15.0,Up to 10,1,0,0,1,0,0,0,0,0,0.0,8650000.0,238590000.0,0.0,27.58
+5,Eric Lefkofsky,Tempus,University of Michigan,Unspecified,BA,University of Michigan,Law,JD,6,0.0,,6,0,1,1,0,0,0,0,0,0.0,82500000.0,0.0,0.0,0.0
+6,Kevin Systrom,Instagram,Stanford University,Operations Research,Unspecified,No Master,No Master,No Master,4,5.0,2 to 5,0,0,0,1,1,0,0,1,0,2600000.0,32000000.0,500000000.0,12.31,15.62
+7,Matt Humphrey,LendingHome,Carnegie Mellon University,Computer Science,BS,Carnegie Mellon University,Business,MBA,6,0.0,,4,0,0,1,0,0,0,0,0,0.0,33820000.0,173970000.0,0.0,5.14
+8,Dustin Moskovitz,Asana,Harvard University,Economics,Unspecified,No Master,No Master,No Master,4,0.0,,3,0,0,1,0,0,0,0,1,0.0,52260000.0,310000000.0,0.0,5.93
+9,Jan Koum,WhatsApp,San Jose State University,Computer Science,BS,No Master,No Master,No Master,4,9.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,40290000.0,1630000000.0,0.0,40.46
+10,Rob May,Talla,University of Kentucky,Engineering,BE,University of Kentucky,Business,MBA,6,18.5,Up to 10,2,0,1,1,0,0,0,0,0,10070000.0,20000000.0,0.0,1.99,0.0
+11,Brian Wong,Kiip,University of British Columbia,Business,BA,No Master,No Master,No Master,4,4.5,2 to 5,3,0,0,1,0,0,0,0,0,590000.0,11170000.0,35540000.0,18.93,3.18
+12,Jason Tan,Sift Science,University of Washington,Computer Science,BE,No Master,No Master,No Master,4,5.5,5 to 10,0,0,0,0,0,0,0,0,0,0.0,20170000.0,80350000.0,0.0,3.98
+13,Sandeep Aggarwal,Droom Technology,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,11.0,Up to 10,0,0,0,1,0,0,0,0,0,0.0,0.0,225000000.0,0.0,0.0
+14,Payal Kadakia,ClassPass,Massachusetts Institute of Technology,Operations Research,BS,No Master,No Master,No Master,4,12.0,Up to 10,1,1,0,1,0,0,0,0,0,15580000.0,80000000.0,414500000.0,5.13,5.18
+15,Brendan Iribe,Oculus,University of Maryland College Park,Computer Science,Not provided,No Master,No Master,No Master,0,13.0,Up to 10,1,0,1,1,0,0,0,0,0,0.0,46000000.0,287440000.0,0.0,6.25
+16,Tom Chavez,Krux,Harvard University,Computer Science,BA,Stanford University,Operations Research,PhD,8,11.0,Up to 10,1,0,0,1,0,1,0,0,1,9590000.0,28920000.0,254100000.0,3.02,8.79
+17,Tina Sharkey,Brandless,University of Pennsylvania,International Relations,BA,No Master,No Master,No Master,4,4.0,2 to 5,0,0,0,1,0,0,0,0,0,14900000.0,35500000.0,105000000.0,2.38,2.96
+18,Emmett Shear,Twitch,Yale University,Computer Science,BS,University of Washington,No Master,No Master,4,4.0,2 to 5,2,0,0,1,0,0,0,0,1,1050000.0,24190000.0,61020000.0,23.04,2.52
+19,Jon Miller,Engagio,Harvard University,Physics,BA,Stanford University,Business,MBA,6,8.0,5 to 10,0,1,1,1,0,0,0,0,1,0.0,32000000.0,100000000.0,0.0,3.12
+20,Don Ressler,Fabletics,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,8.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,210000000.0,316000000.0,0.0,1.5
+21,Jonah Goodhart,Moat,Cornell University,Political Science,BA,No Master,No Master,No Master,4,5.0,2 to 5,6,0,0,1,0,0,0,0,1,0.0,0.0,53800000.0,0.0,0.0
+22,Ron Gula,"Tenable Network Security, Inc.",Clarkson University,Engineering,BS,Southern Illinois University Edwardsville,Engineering,MS,6,12.0,Up to 10,0,0,0,1,0,0,0,0,0,0.0,550000000.0,0.0,0.0,0.0
+23,Pau Sabria,Olapic,Technical University of Catalonia,Engineering,BE,Columbia University,Business,MS,6,4.0,2 to 5,0,1,1,1,0,0,0,0,0,5480000.0,22290000.0,57380000.0,4.07,2.57
+24,Jack Conte,Patreon,Stanford University,Music,BA,No Master,No Master,No Master,4,0.0,,0,0,1,1,0,0,0,1,0,7980000.0,65500000.0,140000000.0,8.21,2.14
+25,Liz Wessel,WayUp,University of Pennsylvania,Unspecified,BA,No Master,No Master,No Master,4,5.0,2 to 5,2,0,1,1,1,0,0,0,0,5110000.0,34470000.0,55500000.0,6.75,1.61
+26,Vlad Tenev,Robinhood,Stanford University,Mathematics,BA,University of California Los Angeles,Mathematics,MA,6,10.0,5 to 10,0,0,0,1,0,0,0,1,0,0.0,61500000.0,250000000.0,0.0,4.07
+27,Chris Milk,WITHIN (VR/AR),Academy of Art University,Film,BA,University of California Santa Barbara,Film,No Master,4,1.0,Less than 2,2,0,0,0,0,0,0,0,0,0.0,40420000.0,150000000.0,0.0,3.71
+28,Alex Fielding,Ripcord,San Jose State University,Unspecified,Unspecified,Stanford University,No Master,No Master,4,7.0,5 to 10,0,0,0,1,0,0,0,0,0,2000000.0,24910000.0,87000000.0,12.46,3.49
+29,Will Marshall,Planet,University of Leicester,Physics,BS,University of Oxford,Physics,PhD,8,7.0,5 to 10,0,0,1,0,0,0,0,0,0,0.0,53420000.0,468000000.0,0.0,8.76
+30,Ron Gutman,HealthTap,Stanford University,Unspecified,Unspecified,Stanford University,Business,MBA,6,14.0,Up to 10,1,0,1,1,0,0,0,1,0,0.0,0.0,77430000.0,0.0,0.0
+31,Tony Xu,DoorDash,University of California Berkeley,Operations Research,BS,Stanford University,Business,MBA,6,2.0,Less than 2,0,1,1,1,0,0,0,1,0,0.0,71550000.0,600000000.0,0.0,8.39
+32,Andy Palmer,Tamr,Bowdoin College,Computer Science,BA,Massachusetts Institute of Technology,Business,MBA,6,2.0,Less than 2,1,0,1,0,0,0,0,0,0,8720000.0,35000000.0,154910000.0,4.01,4.43
+33,Pete Cashmore,Mashable,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,6.0,5 to 10,0,0,0,1,0,0,0,0,0,0.0,70000000.0,150000000.0,0.0,2.14
+34,David Friedberg,The Climate Corporation,University of California Berkeley,Physics,BA,No Master,No Master,No Master,4,2.0,Less than 2,0,0,1,1,1,0,0,1,0,0.0,0.0,192110000.0,0.0,0.0
+35,Marcelo Camberos,ipsy,Duke University,Economics,BA,Stanford University,Business,MBA,6,7.0,5 to 10,0,1,1,1,0,0,0,0,0,0.0,20690000.0,800000000.0,0.0,38.67
+36,Philip Krim,Casper Sleep,University of Texas Austin,Business,BA,No Master,No Master,No Master,4,1.0,Less than 2,1,0,1,0,0,0,0,0,0,7220000.0,59090000.0,555000000.0,8.18,9.39
+37,Noah Kraft,Doppler Labs,Brown University,International Relations,BA,University of California Los Angeles,No Master,No Master,4,7.0,5 to 10,0,1,1,0,1,0,0,0,1,20000000.0,85000000.0,235000000.0,4.25,2.76
+38,Amy Chang,Accompany,Stanford University,Engineering,BE,Stanford University,Engineering,MEng,6,12.0,Up to 10,0,1,1,1,1,0,0,1,0,0.0,25000000.0,200000000.0,0.0,8.0
+39,Steve Shillingford,Anonyome Labs,Brigham Young University,Psychology,BS,University of California Berkeley,Business,MBA,6,7.0,5 to 10,0,0,1,1,0,0,0,0,0,3280000.0,39740000.0,68000000.0,12.12,1.71
+40,David Rogier,MasterClass,Washington University in St. Louis,Economics,BA,Stanford University,Business,MBA,6,12.0,Up to 10,0,0,0,1,0,0,0,0,0,8620000.0,0.0,61190000.0,0.0,0.0
+41,Ryan Smith,Qualtrics,Brigham Young University,Business,BA,No Master,No Master,No Master,4,3.0,2 to 5,0,0,1,1,0,0,0,0,0,0.0,0.0,1000000000.0,0.0,0.0
+42,Nick Huzar,OfferUp,Washington State University,Operations Research,BA,No Master,No Master,No Master,4,6.0,5 to 10,0,0,0,1,0,1,0,0,0,0.0,13300000.0,66900000.0,0.0,5.03
+43,Emily Weiss,Glossier,New York University,Unspecified,Unspecified,No Master,No Master,No Master,4,4.0,2 to 5,1,0,1,1,0,0,0,0,0,10000000.0,35000000.0,130000000.0,3.5,3.71
+44,Nirav Tolia,Nextdoor,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,9.0,5 to 10,0,0,1,1,0,0,0,0,0,0.0,23650000.0,31400000.0,0.0,1.33
+45,Balaji S. Srinivasan,21 Inc,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,1.0,Less than 2,0,0,1,0,0,0,0,0,0,0.0,25050000.0,275000000.0,0.0,10.98
+46,Danielle Morrill,Mattermark,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,5.0,2 to 5,1,1,0,1,0,0,0,0,0,0.0,25000000.0,42300000.0,0.0,1.69
+47,Seth Sternberg,Honor,Yale University,Political Science,BA,Stanford University,Business,MBA,6,4.0,2 to 5,1,0,0,1,1,0,0,0,1,0.0,66000000.0,160000000.0,0.0,2.42
+48,Jen Rubio,Away,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,11.0,Up to 10,0,1,0,0,0,0,0,0,0,7200000.0,40000000.0,120000000.0,5.56,3.0
+49,Curtis Lee,Luxe,University of California Berkeley,Unspecified,Unspecified,University of Pennsylvania,Business,MBA,6,13.0,Up to 10,1,1,1,1,1,0,0,1,0,18000000.0,70000000.0,160000000.0,3.89,2.29
+50,Greg Duffy,Dropcam,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,12.0,Up to 10,1,0,0,1,1,1,0,0,0,0.0,0.0,56490000.0,0.0,0.0
+51,Stefan Heck,"Nauto, Inc.",Stanford University,Cognitive Science,BS,University of California San Diego,Cognitive Science,PhD,8,4.0,2 to 5,0,1,0,1,0,0,1,1,0,0.0,36000000.0,0.0,0.0,0.0
+52,Karl Mehta,EdCast,University of Bombay,Engineering,BA,No Master,No Master,No Master,4,6.0,5 to 10,1,0,0,1,0,0,0,0,0,0.0,17570000.0,71000000.0,0.0,4.04
+53,Joshua Reeves,Gusto,Stanford University,Engineering,BA,Stanford University,Engineering,MS,6,9.0,5 to 10,2,1,1,1,0,0,0,1,0,32590000.0,127530000.0,560000000.0,3.91,4.39
+54,Bret Taylor,Quip,Stanford University,Computer Science,BS,Stanford University,Computer Science,MS,6,1.0,Less than 2,0,0,1,1,1,0,0,1,0,0.0,94730000.0,377310000.0,0.0,3.98
+55,Melody McCloskey,StyleSeat,University of California Davis,International Relations,BA,No Master,No Master,No Master,4,6.0,5 to 10,0,0,1,0,0,0,0,0,0,15950000.0,42510000.0,119310000.0,2.67,2.81
+56,Tyler Droll,Yik Yak,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,7.0,5 to 10,0,0,1,1,0,0,0,0,0,0.0,44240000.0,400520000.0,0.0,9.05
+57,Baiju Prafulkumar Bhatt,Robinhood,Stanford University,Physics,BA,Stanford University,Mathematics,MS,6,8.0,5 to 10,0,0,1,1,0,0,0,1,0,0.0,61500000.0,250000000.0,0.0,4.07
+58,Dennis Mortensen,x.ai,Skive Business College,Computer Science,BA,British Columbia Institute of Technology,Computer Science,Associate Instructor,6,10.0,5 to 10,3,0,0,1,0,0,0,0,0,7440000.0,34130000.0,87370000.0,4.59,2.56
+59,Max Ventilla,AltSchool,Yale University,Physics,BS,Yale University,Business,MBA,6,14.0,Up to 10,2,0,0,1,1,0,1,0,1,6600000.0,92980000.0,325000000.0,14.09,3.5
+60,Zain Jaffer,Vungle,King's College London,Business,BS,London Business School,Business,MBA,6,14.0,Up to 10,6,0,0,1,0,0,0,0,0,0.0,20950000.0,101190000.0,0.0,4.83
+61,Ben Marcus,AirMap,Purdue University,Engineering,BS,No Master,No Master,No Master,4,1.0,Less than 2,1,0,1,0,0,0,1,0,0,12960000.0,48470000.0,115260000.0,3.74,2.38
+62,Mike Farley,Tile,State University of New York College at Plattsburgh,Computer Science,BS,The University of Queensland,No Master,No Master,4,8.0,5 to 10,0,0,0,1,0,0,0,0,0,51310000.0,54310000.0,166670000.0,1.06,3.07
+63,David Niu,TINYhr,University of California Berkeley,Political Science,BA,University of Pennsylvania ,Business,MBA,6,1.0,Less than 2,3,1,0,0,0,0,0,1,0,17500000.0,70000000.0,0.0,4.0,0.0
+64,Jeremy Johnson,Andela,Princeton University,Unspecified,Unspecified,No Master,No Master,No Master,4,5.0,2 to 5,2,0,0,0,0,0,0,0,1,0.0,33830000.0,112000000.0,0.0,3.31
+65,David Cancel,Drift,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,10.0,5 to 10,6,0,1,1,0,0,0,0,0,0.0,45130000.0,0.0,0.0,0.0
+66,Mikita Mikado,Quote Roller,Belarussian State University of Informatics and Radioelectronics,Computer Science,BA,University of Hawaii at Manoa,Computer Science,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,0.0,23860000.0,70000000.0,0.0,2.93
+67,Kamakshi Sivaramakrishnan,Drawbridge Inc.,Boston University,Engineering,BS,Stanford University,Operations Research,PhD,8,1.0,Less than 2,0,0,1,1,1,0,0,0,0,0.0,15840000.0,99000000.0,0.0,6.25
+68,Anthony Casalena,Squarespace,University of Maryland College Park,Computer Science,BS,No Master,No Master,No Master,4,9.0,5 to 10,0,0,1,1,0,0,0,0,0,0.0,133410000.0,560910000.0,0.0,4.2
+69,Davis Smith,Cotopaxi,Brigham Young University,International Relations,BA,University of Pennsylvania,Business,MBA,6,13.0,Up to 10,3,0,0,1,0,0,0,0,0,11460000.0,18840000.0,0.0,1.64,0.0
+70,Suhail Doshi,Mixpanel,Arizona State University,Computer Science,BA,No Master,No Master,No Master,4,9.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,32890000.0,865000000.0,0.0,26.3
+71,Tariq Hilaly,"Lumity, Inc.",University of Missouri Saint Louis,Business,BA,Harvard University,Business,MBA,6,8.0,5 to 10,1,1,0,0,0,1,0,0,0,15250000.0,41160000.0,87220000.0,2.7,2.12
+72,Michael Wystrach,Freshly,University of Arizona,Business,BS,No Master,No Master,No Master,4,2.0,Less than 2,0,0,0,0,0,0,0,0,0,11590000.0,28000000.0,70000000.0,2.42,2.5
+73,Hovhannes Avoyan,PicsArt,State Engineering University of Armenia,Computer Science,BS,American University of Armenia,No Master,MA,6,4.0,2 to 5,3,0,0,0,0,0,0,0,0,0.0,52330000.0,250000000.0,0.0,4.78
+74,Michael Katz,mParticle,Syracuse University,Economics,BS,No Master,No Master,No Master,4,9.0,5 to 10,0,1,0,0,0,0,0,0,0,26500000.0,40550000.0,64290000.0,1.53,1.59
+75,Aakrit Vaish,Haptik,University of Illinois Urbana-Champaign,Operations Research,BS,No Master,No Master,No Master,4,3.0,2 to 5,1,1,0,1,0,0,0,0,0,0.0,4000000.0,0.0,0.0,0.0
+76,Dan Teran,Managed by Q,Johns Hopkins University,International Relations,BA,No Master,No Master,No Master,4,3.0,2 to 5,1,0,0,0,0,0,0,0,0,12570000.0,80430000.0,125000000.0,6.4,1.55
+77,Jay Chaudhry,Zscaler,Indian Institute Of Technology,Engineering,BE,University of Cincinnati,Business,MBA,6,2.0,Less than 2,4,0,1,0,0,0,0,0,0,0.0,0.0,88123000.0,0.0,0.0
+78,Alex Laats,Rekener Inc.,Massachusetts Institute of Technology,Physics,BS,Harvard University,No Master,JD,6,8.0,5 to 10,3,0,1,0,0,0,0,0,0,10700000.0,0.0,0.0,0.0,0.0
+79,David Vivero,Amino,Harvard University,Economics,BA,Harvard University,Business,MBA,6,13.0,Up to 10,3,0,0,1,0,0,0,0,1,3500000.0,7380000.0,55270000.0,2.11,7.49
+80,Jim Barnett,Glint,Stanford University,Political Science,BA,Stanford University,Business,MBA,6,14.0,Up to 10,1,0,1,1,0,0,0,1,0,0.0,20670000.0,38170000.0,0.0,1.85
+81,Andrew Levy,Apteligent,Johns Hopkins University,Computer Science,BS,No Master,No Master,No Master,4,2.0,Less than 2,1,0,0,0,0,0,0,0,0,0.0,15120000.0,53880000.0,0.0,3.56
+82,Marcin Kleczynski,Malwarebytes,University of Illinois Urbana-Champaign,Unspecified,Unspecified,No Master,No Master,No Master,4,4.0,2 to 5,0,0,0,1,0,0,0,0,0,0.0,150000000.0,625000000.0,0.0,4.17
+83,Ben Rubin,Houseparty,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,11.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,12930000.0,54000000.0,0.0,4.18
+84,Michael Buckwald,Leap Motion,George Washington University,Unspecified,Unspecified,No Master,No Master,No Master,4,9.0,5 to 10,1,0,0,1,0,0,0,0,0,7600000.0,51000000.0,310000000.0,6.71,6.08
+85,Michael Wayne,Kin Community,University of the South,English,BA,No Master,No Master,No Master,4,13.0,Up to 10,1,0,1,0,0,0,0,0,0,0.0,10000000.0,54000000.0,0.0,5.4
+86,Craig Walker,Dialpad,University of California Berkeley,Sociology,BA,University of California Berkeley,Law,JD,6,12.0,Up to 10,4,0,1,0,1,0,0,1,0,0.0,14440000.0,54000000.0,0.0,3.74
+87,Meron Gribetz,Meta,Columbia,Unspecified,Unspecified,No Master,No Master,No Master,4,1.0,Less than 2,1,0,1,0,0,0,0,0,0,0.0,72000000.0,300000000.0,0.0,4.17
+88,Justin Yoshimura,500Friends,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,6.0,5 to 10,0,0,1,0,0,0,0,0,0,0.0,19140000.0,0.0,0.0,0.0
+89,Seth Birnbaum,EverQuote,Massachusetts Institute of Technology,Engineering,BS,No Master,No Master,No Master,4,13.0,Up to 10,2,0,0,0,0,0,0,0,0,0.0,3100000.0,220000000.0,0.0,70.97
+90,Tim Junio,"Qadium, Inc.",Johns Hopkins University,Unspecified,BA,Stanford University,No Master,PhD,8,9.0,5 to 10,0,1,1,0,0,0,0,0,0,0.0,69000000.0,320000000.0,0.0,4.64
+91,Loic Le Meur,Leade.rs,HEC,Unspecified,Unspecified,No Master,No Master,No Master,4,5.0,2 to 5,6,0,0,0,0,0,0,0,0,2400000.0,0.0,0.0,0.0,0.0
+92,Michael Laskoff,Annum Health,University of Chicago,Political Science,BA,Harvard University,Business,MBA,6,2.0,Less than 2,2,1,0,0,0,0,0,0,0,8500000.0,0.0,0.0,0.0,0.0
+93,Andrew Filev,Wrike,Not provided,Not provided,Not provided,Saint Petersburg State University,Computer Science,MS,0,3.0,2 to 5,1,0,0,1,0,0,0,0,0,0.0,45000000.0,125000000.0,0.0,2.78
+94,Ori Eisen,Trusona,Bergen Community College,Business,BA,Montclair State University,Business,MA,6,12.0,Up to 10,1,0,0,0,0,0,0,0,0,0.0,21050000.0,50000000.0,0.0,2.38
+95,Hicham Oudghiri,Enigma,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,3.0,2 to 5,0,0,0,0,0,0,0,0,0,3350000.0,0.0,0.0,0.0,0.0
+96,Scott Walchek,TrÅ?v,University of California San Diego,Unspecified,Not provided,No Master,No Master,No Master,0,8.0,5 to 10,3,0,0,1,0,0,0,0,0,0.0,9700000.0,12850000.0,0.0,1.32
+97,Hyungseok Dino Ha,Memebox Corporation,Kyung Hee University,Engineering,BS,Parson School of Design,Business,AAS,6,9.0,5 to 10,0,0,1,1,0,0,1,0,0,0.0,31192000.0,100000000.0,0.0,3.21
+98,Dan Shapiro,Glowforge,Harvey Mudd College,Engineering,BS,No Master,No Master,No Master,4,11.0,Up to 10,2,0,0,0,0,0,0,0,0,0.0,29000000.0,174000000.0,0.0,6.0
+99,Ron Palmeri,Layer,Institut d'Etudes Politiques de Paris,Unspecified,Unspecified,No Master,No Master,No Master,4,6.0,5 to 10,2,0,1,1,0,0,1,0,0,0.0,63700000.0,45000000.0,0.0,0.71
+100,Nick Weaver,eero,Stanford University,Operations Research,BS,No Master,No Master,No Master,4,3.0,2 to 5,1,1,1,1,0,0,1,1,0,14000000.0,40000000.0,125000000.0,2.86,3.12
+101,Stephen Russell,Prism Skylabs,Stanford University,Economics,BA,No Master,No Master,No Master,4,14.0,Up to 10,2,0,0,1,0,0,0,1,0,0.0,42040000.0,70000000.0,0.0,1.67
+102,Alex Blumberg,Gimlet Media,Oberlin College,Political Science,BA,No Master,No Master,No Master,4,1.0,Less than 2,0,0,0,0,0,0,0,0,0,0.0,30000000.0,74000000.0,0.0,2.47
+103,Henry Ward,eShares,University of Michigan,Computer Science,BA,EDHEC Business School,Business,MS,6,6.0,5 to 10,1,0,0,0,0,0,1,0,0,6300000.0,23910000.0,75000000.0,3.8,3.14
+104,Sue Khim,Brilliant.org,University of Chicago,Mathematics,BA,No Master,No Master,No Master,4,6.0,5 to 10,1,0,1,1,0,0,0,0,0,0.0,4300000.0,19300000.0,0.0,4.49
+105,Munjal Shah,Health Equity Labs,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,1.0,Less than 2,0,0,0,1,1,0,0,0,0,10970000.0,0.0,44000000.0,0.0,0.0
+106,Ali Diab,Collective Health,University of Oxford,Unspecified,Unspecified,Stanford University,No Master,No Master,4,5.0,2 to 5,2,0,0,1,0,1,0,0,0,0.0,0.0,107000000.0,0.0,0.0
+107,Jess Lee,Polyvore,Stanford University,Computer Science,BS,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,1,1,0,0,1,0,0.0,0.0,14130000.0,0.0,0.0
+108,Ross Bailey,Appear Here,Bury Lawn School,Unspecified,Unspecified,School Of Communication Art,Business,PhD,8,13.0,Up to 10,0,1,1,1,0,0,1,0,0,5500000.0,16000000.0,32000000.0,2.91,2.0
+109,Ari Mir,Clutter,University of Southern California,Business,BS,No Master,No Master,No Master,4,8.0,5 to 10,3,0,0,1,0,0,1,0,0,7700000.0,25000000.0,76000000.0,3.25,3.04
+110,James Crawford,"Orbital Insight, Inc.",Rice University,Unspecified,Unspecified,University of Texas Austin,Computer Science,PhD,8,8.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,42000000.0,80000000.0,0.0,1.9
+111,Stephen Dash,Credible,University of Queensland,Business,BA,No Master,No Master,No Master,4,12.0,Up to 10,1,0,0,0,0,0,0,0,0,0.0,58000000.0,0.0,0.0,0.0
+112,Brit Morin,Brit + Co,University of Texas Austin,Unspecified,BA,No Master,No Master,No Master,4,2.0,Less than 2,0,0,0,1,1,0,0,0,0,0.0,22000000.0,75000000.0,0.0,3.41
+113,Isaac Oates,Justworks,University of Illinois Urbana-Champaign,Computer Science,BS,Cornell University,Business,MBA,6,6.0,5 to 10,1,0,1,0,0,0,0,0,0,0.0,35000000.0,70000000.0,0.0,2.0
+114,Jerry Hum,Touch of Modern,Cornell University,Architecture,BA,No Master,No Master,No Master,4,5.0,2 to 5,1,0,1,1,0,0,0,0,1,4000000.0,9000000.0,41000000.0,2.25,4.56
+115,Robin Chase,Zipcar,Wellesley College,English,BA,Massachusetts Institute of Technology,Business,MBA,6,7.0,5 to 10,2,1,0,1,0,0,0,0,0,0.0,4270000.0,5500000.0,0.0,1.29
+116,Michael Winn,DroneDeploy,Rhodes University,Economics,BS,No Master,No Master,No Master,4,8.0,5 to 10,1,0,0,1,1,0,0,0,0,13000000.0,33000000.0,83000000.0,2.54,2.52
+117,Sean Spector,"Dropoff, Inc.",University of Southern California,Film,BA,San Francisco State University,Film,MA,6,2.0,Less than 2,1,0,0,1,0,0,0,0,0,0.0,17500000.0,34000000.0,0.0,1.94
+118,Horace Luke,Gogoro,University of Washington,Design,BA,No Master,No Master,No Master,4,10.0,5 to 10,0,0,1,1,0,1,0,0,0,0.0,0.0,130000000.0,0.0,0.0
+119,Chris Herbert,TrackR,University of California Santa Barbara,Engineering,BS,No Master,No Master,No Master,4,5.0,2 to 5,0,0,1,1,0,0,1,0,0,14133000.0,0.0,0.0,0.0,0.0
+120,Maureen Fan,Baobab Studios,Stanford University,Computer Science,BS,Harvard University,Business,MBA,6,10.0,5 to 10,0,0,1,1,0,0,0,1,0,0.0,24000000.0,75000000.0,0.0,3.12
+121,Steph Korey,Away,Brown University,International Relations,BA,Columbia University,Business,MBA,6,6.0,5 to 10,0,1,0,1,0,0,0,0,1,7200000.0,40000000.0,120000000.0,5.56,3.0
+122,Trevor Traina,IfOnly,Princeton University,Unspecified,BA,University of California Berkeley,Business,MBA,6,10.0,5 to 10,0,0,1,1,0,1,0,0,1,0.0,30000000.0,84000000.0,0.0,2.8
+123,Louay Eldada,Quanergy Systems,Columbia University,Engineering,BS,Stanford University,Business,MBA,6,3.0,2 to 5,0,0,0,1,0,0,0,0,1,16000000.0,110000000.0,1140000000.0,6.88,10.36
+124,Jasen Wang,Makeblock,Northwestern Polytechnic University,Engineering,BS,No Master,No Master,No Master,4,14.0,Up to 10,0,0,1,0,0,0,0,0,0,420000000.0,0.0,200000000.0,0.0,0.0
+125,Jeff Tangney,Doximity,University of Wisconsin Madison,Economics,BS,Stanford University,Business,No Master,4,2.0,Less than 2,0,1,0,0,0,0,0,0,0,0.0,37000000.0,78000000.0,0.0,2.11
+126,Ross McCray,VideoAmp,University of California Los Angeles,Physics,BS,No Master,No Master,No Master,4,3.0,2 to 5,0,0,0,0,0,0,0,0,0,9500000.0,43000000.0,85000000.0,4.53,1.98
+127,Amit Sharma,Narvar,University of Mumbai,Engineering,BS,Duke University,Business,MBA,6,7.0,5 to 10,0,1,0,0,0,0,0,0,0,8000000.0,33000000.0,147000000.0,4.12,4.45
+128,Rami Essaid,Distil Networks,North Carolina State University,Computer Science,BS,Campbell University,Business,No Master,4,13.0,Up to 10,0,0,1,0,0,0,0,0,0,6000000.0,24000000.0,140000000.0,4.0,5.83
+129,Joe Fernandez,Joymode,University of Miami,Business,Unspecified,No Master,No Master,No Master,4,4.0,2 to 5,1,0,1,0,0,0,0,0,0,8300000.0,0.0,0.0,0.0,0.0
+130,Zoe Barry,ZappRx,Columbia University,History,BA,No Master,No Master,No Master,4,8.0,5 to 10,0,1,0,1,0,0,0,0,1,0.0,34000000.0,65000000.0,0.0,1.91
+131,Yan-David Erlich,Parsable,Rice University,Computer Science,BS,Stanford University,Business,MBA,6,12.0,Up to 10,3,0,1,1,1,1,0,0,0,0.0,20440000.0,76660000.0,0.0,3.75
+132,Andrew Leto,GlobalTranz,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,5.0,2 to 5,2,0,0,1,0,0,0,0,0,0.0,40111000.0,125000000.0,0.0,3.12
+133,Michael Jaconi,Button,University of Southern California,Political Science,Unspecified,Harvard University,Business,Executive Education,6,12.0,Up to 10,2,1,1,1,0,0,0,0,0,8500000.0,48560000.0,99230000.0,5.71,2.04
+134,Mike Sha,Wikinvest,Harvard University,Mathematics,BA,Harvard University,Computer Science,MS,6,6.0,5 to 10,1,1,0,1,0,0,0,0,1,0.0,32000000.0,26000000.0,0.0,0.81
+135,Ashvin Kumar,"Tophatter, Inc.",Stanford University,Computer Science,BS,No Master,No Master,No Master,4,1.0,Less than 2,1,0,1,1,0,0,0,1,0,5730000.0,40000000.0,12000000.0,6.98,0.3
+136,Momchil Kyurkchiev,Leanplum,State University of New York College at Brockport,Computer Science,BS,Carnegie Mellon University,Computer Science,MS,6,5.0,2 to 5,0,0,1,1,1,0,0,0,0,0.0,19720000.0,50970000.0,0.0,2.58
+137,Brian Brackeen,Kairos AR,Harvard University,Political Science,BA,Harvard University,Business,MBA,6,5.0,2 to 5,0,0,0,0,0,0,0,0,1,0.0,5110000.0,14520000.0,0.0,2.84
+138,Kevin Gibbon,Shyp,British Columbia Institute of Technology,Computer Science,Unspecified,No Master,No Master,No Master,4,14.0,Up to 10,2,1,1,0,0,0,0,0,0,7970000.0,40000000.0,275000000.0,5.02,6.88
+139,Daniel Ruch,Rocketrip,University of Wisconsin Madison,Psychology,BA,No Master,No Master,No Master,4,12.0,Up to 10,0,0,1,1,0,0,1,0,0,0.0,13420000.0,23000000.0,0.0,1.71
+140,Matt Riley,Swiftype,University of Texas Austin,Engineering,BS,University of Texas Austin,Engineering,MS,6,13.0,Up to 10,0,0,0,0,0,0,1,0,0,0.0,30000000.0,70000000.0,0.0,2.33
+141,Lew Cirne,New Relic,Dartmouth College,Computer Science,BA,No Master,No Master,No Master,4,8.0,5 to 10,1,0,0,1,0,0,0,0,1,0.0,15000000.0,44630000.0,0.0,2.98
+142,Vasu Kulkarni,Krossover,University of Pennsylvania,Computer Science,BS,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,1,0,0,0,0,0,2130000.0,14000000.0,17760000.0,6.57,1.27
+143,Will Ahmed,WHOOP,Harvard University,Economics,BA,No Master,No Master,No Master,4,13.0,Up to 10,0,1,0,1,0,0,0,0,1,10800000.0,23000000.0,48000000.0,2.13,2.09
+144,Steve Polsky,Juvo,University of Pennsylvania,Computer Science,BE,University of Pennsylvania,Business,No Master,4,2.0,Less than 2,1,0,0,1,0,0,1,0,0,0.0,49000000.0,0.0,0.0,0.0
+145,Anthemos Georgiades,Zumper,University of Oxford,Unspecified,BA,Harvard University,Business,MBA,6,8.0,5 to 10,0,1,1,0,0,0,0,0,0,0.0,87000000.0,108000000.0,0.0,1.24
+146,Dan Widmaier,Bolt Threads,University of Washington,Chemistry,BS,University of California San Francisco,Chemistry,PhD,8,4.0,2 to 5,0,0,1,1,0,0,0,0,0,0.0,18620000.0,100120000.0,0.0,5.38
+147,Immad Akhund,Heyzap,Not provided,Not provided,Not provided,University of Cambridge,Computer Science,MA,0,13.0,Up to 10,1,0,1,0,0,0,0,0,0,0.0,2450000.0,27000000.0,0.0,11.02
+148,Jesse Vollmar,FarmLogs,Saginaw Valley State University,Computer Science,BS,No Master,No Master,No Master,4,1.0,Less than 2,0,0,1,1,0,0,0,0,0,3600000.0,13770000.0,50000000.0,3.82,3.63
+149,Amir Husain,SparkCognition,University of Texas Austin,Computer Science,BS,No Master,No Master,No Master,4,2.0,Less than 2,1,0,0,0,0,0,0,0,0,2500000.0,93120000.0,302050000.0,37.25,3.24
+150,Travis Katz,Trip.com,Stanford University,Political Science,BA,University of Pennsylvania,Business,MBA,6,4.0,2 to 5,0,1,0,1,0,0,0,1,0,0.0,17700000.0,85220000.0,0.0,4.81
+152,Moshe Yanai,INFINIDAT,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,3.0,2 to 5,0,0,0,1,0,0,0,0,0,0.0,0.0,1200000000.0,0.0,0.0
+153,Nat Friedman,Xamarin,Massachusetts Institute of Technology,Computer Science,BS,No Master,No Master,No Master,4,11.0,Up to 10,1,0,0,1,0,0,0,0,0,0.0,0.0,110600000.0,0.0,0.0
+154,Zachary Sims,Codecademy,Columbia University,Political Science,BA,No Master,No Master,No Master,4,14.0,Up to 10,0,1,0,1,0,0,1,0,1,0.0,16000000.0,61660000.0,0.0,3.85
+155,David Shim,Placed,University of Washington,Political Science,BA,No Master,No Master,No Master,4,12.0,Up to 10,2,0,0,1,0,0,0,0,0,0.0,10460000.0,0.0,0.0,0.0
+156,Zac Bookman,OpenGov,San Jose State University,Business,BA,No Master,No Master,No Master,4,13.0,Up to 10,0,0,0,1,0,0,0,0,0,2000000.0,12000000.0,63740000.0,6.0,5.31
+157,Oren J. Falkowitz,Area 1 Security,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,3.0,2 to 5,0,0,0,1,0,0,0,0,0,9460000.0,26240000.0,70240000.0,2.77,2.68
+158,Sam Rosen,MakeSpace,New York University,Economics,BS,No Master,No Master,No Master,4,2.0,Less than 2,2,0,1,1,0,0,1,0,0,8000000.0,27210000.0,50040000.0,3.4,1.84
+159,Jens Christensen,Jaunt,Columbia University,Computer Science,BA,Stanford University,Computer Science,PhD,8,11.0,Up to 10,3,0,1,1,0,0,0,0,1,0.0,25000000.0,95000000.0,0.0,3.8
+160,Rehan Jalil,Elastica,NED University of Engineering and Technology,Engineering,BE,Harvard University,No Master,Executive Education,6,14.0,Up to 10,1,0,0,1,0,0,0,0,0,0.0,20300000.0,113940000.0,0.0,5.61
+161,Jessica Mah,inDinero,University of California Berkeley,Computer Science,BA,No Master,No Master,No Master,4,8.0,5 to 10,0,0,0,1,0,0,0,1,0,0.0,16070000.0,40000000.0,0.0,2.49
+162,Jon Bischke,Entelo,University of MinnesotaTwin Cities,Operations Research,BA,University of California Los Angeles,Business,MBA,6,8.0,5 to 10,2,0,0,1,0,0,0,0,0,0.0,7000000.0,16750000.0,0.0,2.39
+163,Michael Wolfe,Pipewise,Stanford University,Computer Science,BS,Stanford University,Computer Science,MS,6,11.0,Up to 10,1,0,1,1,0,0,1,1,0,0.0,17000000.0,0.0,0.0,0.0
+164,Tim Tuttle,MindMeld,Massachusetts Institute of Technology,Unspecified,BS,Massachusetts Institute of Technology,No Master,PhD,8,5.0,2 to 5,2,0,1,0,0,0,1,0,0,14200000.0,54000000.0,0.0,3.8,0.0
+165,Suren Markosian,Epic!,Technische UniversitÃ¤t Wien,Physics,Unspecified,No Master,No Master,No Master,4,13.0,Up to 10,4,0,0,1,0,0,0,0,0,0.0,15000000.0,47000000.0,0.0,3.13
+166,Omar Siddiqui,"Kiwi, Inc.",Harvard University,Sociology,BA,Harvard University,Business,MBA,6,6.0,5 to 10,0,1,1,1,0,0,0,0,1,0.0,22000000.0,82000000.0,0.0,3.73
+167,Jessica Richman,uBiome,Stanford University,Computer Science,BS,University of Oxford,Sociology,PhD,8,4.0,2 to 5,0,1,0,1,0,0,0,1,0,0.0,14650000.0,65000000.0,0.0,4.44
+168,Gregg Brockway,Chairish,Dartmouth College,Economics,BA,Harvard University,Business,MBA,6,9.0,5 to 10,0,0,1,1,0,0,1,0,1,12000000.0,22500000.0,36000000.0,1.88,1.6
+169,Bart Lorang,FullContact,University of Colorado Boulder,Computer Science,BS,University of Denver,Business,MBA,6,5.0,2 to 5,1,0,0,1,0,0,0,0,0,0.0,5600000.0,21000000.0,0.0,3.75
+170,Joshua Viner,Wag,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,10.0,5 to 10,2,0,0,1,0,0,0,0,0,10000000.0,33000000.0,0.0,3.3,0.0
+171,Aloke Bajpai,ixigo.com,Indian Institute of Technology Kanpur,Engineering,Unspecified,University of Pennsylvania,Business,MBA,6,13.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,25000000.0,0.0,0.0,0.0
+172,Joe Greenstein,Flixster,University of Pennsylvania,Computer Science,Unspecified,No Master,No Master,No Master,4,2.0,Less than 2,1,0,0,1,0,0,0,0,0,0.0,26000000.0,88000000.0,0.0,3.38
+173,Jim Marggraff,Eyefluence,Massachusetts Institute of Technology,Engineering,BS,No Master,No Master,No Master,4,5.0,2 to 5,3,0,1,1,1,0,0,0,0,0.0,21710000.0,49000000.0,0.0,2.26
+175,Clara Shih,Hearsay Systems,Stanford University,Computer Science,BS,University of Oxford,No Master,MS,6,9.0,5 to 10,0,1,1,0,1,1,0,1,0,0.0,9200000.0,38090000.0,0.0,4.14
+176,Robbie Cape,98point6,Princeton University,Operations Research,BE,No Master,No Master,No Master,4,0.0,,1,0,0,0,0,0,0,0,1,14070000.0,0.0,0.0,0.0,0.0
+177,Stephanie Horbaczewski,StyleHaul,Trinity College Hartford,English,BA,Suffolk University,Business,MBA,6,3.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,13440000.0,48560000.0,0.0,3.61
+178,Garrett Lord,Handshake,Michigan Technological University,Computer Science,BS,No Master,No Master,No Master,4,9.0,5 to 10,1,1,0,0,0,0,0,0,0,6500000.0,27880000.0,54000000.0,4.29,1.94
+179,Rohit Gupta,Palerra Inc.,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,1,1,0,0,0,0,0,0.0,19000000.0,53000000.0,0.0,2.79
+180,Diaz Nesamoney,Jivox,Not provided,Not provided,Not provided,Birla Institute of Technology and Science Pilani,Computer Science,MS,0,12.0,Up to 10,1,0,1,0,0,0,0,0,0,0.0,19000000.0,9740000.0,0.0,0.51
+181,Jon Sobel,Sight Machine,Princeton University,Political Science,BA,University of Pennsylvania,Business,MBA,6,13.0,Up to 10,0,0,1,0,0,0,0,0,1,0.0,11570000.0,16770000.0,0.0,1.45
+182,Mayank Bawa,Aster Data Systems,Indian Institute of Technology Bombay,Computer Science,BE,Stanford University,Computer Science,PhD,8,4.0,2 to 5,0,0,0,0,0,0,1,0,0,4000000.0,19000000.0,97500000.0,4.75,5.13
+183,Yoav Kutner,Oro Inc.,University of California Los Angeles,Computer Science,BS,No Master,No Master,No Master,4,0.0,,4,0,1,0,0,0,0,0,0,0.0,40000000.0,0.0,0.0,0.0
+184,Hakan Bas,Lidyana.com,Cornell University,Economics,BA,Yale University,Business,MBA,6,11.0,Up to 10,7,1,1,0,0,0,0,0,1,0.0,11000000.0,27000000.0,0.0,2.45
+185,Eric Alterman,flowthings.io,Tufts University,Political Science,BA,Washington College of Law,Law,JD,6,8.0,5 to 10,9,0,0,0,0,0,0,0,0,0.0,8360000.0,0.0,0.0,0.0
+186,Carlos Watson,Ozy Media,Syracuse University,Business,BS,No Master,No Master,No Master,4,1.0,Less than 2,0,1,1,0,0,0,0,0,0,15500000.0,40000000.0,135000000.0,2.58,3.38
+187,Ashish Hemrajani,BookMyShow,Not provided,Not provided,Not provided,Sydenham,Business,MBA,0,14.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,0.0,167000000.0,0.0,0.0
+188,Todd Olson,Pendo,Carnegie Mellon University,Computer Science,BS,No Master,No Master,No Master,4,5.0,2 to 5,2,1,1,0,0,0,0,0,0,0.0,24000000.0,100000000.0,0.0,4.17
+189,David Rusenko,Weebly,Penn State University,Operations Research,BS,No Master,No Master,No Master,4,9.0,5 to 10,0,0,1,0,0,0,0,0,0,0.0,3000000.0,230000000.0,0.0,76.67
+190,Brian Ballard,Upskill (formerly APX Labs),Carnegie Mellon University,Engineering,BS,University of Maryland,Business,MBA,6,6.0,5 to 10,0,0,1,0,0,0,0,0,0,0.0,51000000.0,67000000.0,0.0,1.31
+191,Logan LaHive,Belly,University of California Berkeley,Unspecified,Unspecified,No Master,No Master,No Master,4,1.0,Less than 2,0,0,1,1,0,0,0,1,0,0.0,3000000.0,79000000.0,0.0,26.33
+192,Mike Bergelson,Everwise,Cornell University,Operations Research,BS,No Master,No Master,No Master,4,2.0,Less than 2,3,1,1,0,0,0,0,0,1,10000000.0,23500000.0,67000000.0,2.35,2.85
+193,Michael Ellenbogen,Evolv Technology,Colgate University,Physics,BA,No Master,No Master,No Master,4,6.0,5 to 10,1,0,1,0,0,0,1,0,0,0.0,44800000.0,28000000.0,0.0,0.62
+194,Matt Barnard,Plenty Inc.,Northwestern University,Economics,BA,Stanford University,Business,MS,6,7.0,5 to 10,1,0,1,0,0,0,0,0,0,0.0,52000000.0,500000000.0,0.0,9.62
+195,Assaf Biderman,Superpedestrian,Massachusetts Institute of Technology,Unspecified,Unspecified,No Master,No Master,No Master,4,4.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,23200000.0,0.0,0.0,0.0
+196,Sarah Nahm,Lever,Stanford University,Engineering,BS,No Master,No Master,No Master,4,4.0,2 to 5,0,0,0,0,1,0,0,1,0,0.0,50000000.0,100000000.0,0.0,2.0
+197,Andrew Feldman,SeaMicro,Stanford University,Economics,BA,Stanford University,Business,MBA,6,16.0,Up to 10,0,0,0,0,0,0,1,1,0,22000000.0,37000000.0,93730000.0,1.68,2.53
+198,Niraj Shah,Wayfair,Cornell University,Engineering,BS,No Master,No Master,No Master,4,0.0,,1,0,0,0,0,0,0,0,1,0.0,0.0,2010000000.0,0.0,0.0
+199,Moshe Vaknin,YouAppi,Monmouth University,Engineering,BA,Saint Peter's University,Business,MBA,6,10.0,5 to 10,1,0,0,1,0,0,0,0,0,4000000.0,10000000.0,50000000.0,2.5,5.0
+200,Aaron Hirschhorn,DogVacay,Swarthmore College,Cognitive Science,BA,University of California Los Angeles ,Business,MBA,6,10.0,5 to 10,0,1,0,0,0,0,0,0,0,5000000.0,20350000.0,141600000.0,4.07,6.96
+201,Harry Glaser,Periscope Data,University of Rochester,Computer Science,BS,No Master,No Master,No Master,4,3.0,2 to 5,0,0,0,0,1,0,0,0,0,0.0,37000000.0,100000000.0,0.0,2.7
+202,Eric Frenkiel,MemSQL,Stanford University,Operations Research,BS,No Master,No Master,No Master,4,2.0,Less than 2,0,0,0,1,1,0,0,1,0,15630000.0,37290000.0,160000000.0,2.39,4.29
+203,Jim Fowler,"Owler, Inc.",University of Colorado Boulder,International Relations,BA,No Master,No Master,No Master,4,7.0,5 to 10,1,0,0,0,0,0,1,0,0,0.0,0.0,64310000.0,0.0,0.0
+204,Yair Goldfinger,AppCard,Tel Aviv University,Computer Science,BA,No Master,No Master,No Master,4,0.0,,2,0,0,0,0,0,0,0,0,0.0,30000000.0,0.0,0.0,0.0
+205,Aron Gelbard,Bloom & Wild,University of Oxford,Language,BA,Harvard University,Business,MBA,6,7.0,5 to 10,0,1,0,1,1,0,0,0,0,2380000.0,15000000.0,0.0,6.3,0.0
+206,Christophe Bisciglia,WibiData,University of Washington,Computer Science,BS,No Master,No Master,No Master,4,5.0,2 to 5,1,0,0,0,1,0,0,0,0,0.0,33000000.0,67000000.0,0.0,2.03
+207,Mike Silagadze,Top Hat,University of Waterloo,Engineering,BS,No Master,No Master,No Master,4,3.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,15000000.0,0.0,0.0,0.0
+208,Ethan Anderson,MyTime,Duke University,Economics,BA,Harvard University,Business,MBA,6,8.0,5 to 10,2,1,1,0,0,0,0,0,0,0.0,16000000.0,,0.0,
+209,Kevin MacDonald,Kit Check,Villanova University,Computer Science,BS,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,12000000.0,56000000.0,0.0,4.67
+210,Parker Conrad,Zenefits,Harvard University,Chemistry,BA,No Master,No Master,No Master,4,3.0,2 to 5,2,0,0,1,0,0,0,0,1,0.0,64000000.0,566000000.0,0.0,8.84
+211,Josh Switkes,Peloton Technology,Harvey Mudd College,Engineering,BS,Stanford University,Engineering,PhD,8,7.0,5 to 10,0,1,1,0,0,0,0,0,0,5060000.0,45410000.0,186620000.0,8.97,4.11
+212,Ronen Lazar,INTURN,Yeshiva University,Economics,BA,No Master,No Master,No Master,4,0.0,,2,0,1,0,0,0,0,0,0,1000000.0,52000000.0,110000000.0,52.0,2.12
+213,Ann Johnson,Interana,California Institute of Technology,Engineering,BS,California Institute of Technology,Engineering,MS,6,5.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,37000000.0,88370000.0,0.0,2.39
+214,Steve McCanne,Jut Inc,University of California Berkeley,Engineering,BS,University of California Berkeley,Computer Science,PhD,8,12.0,Up to 10,2,0,1,0,0,0,0,1,0,0.0,10500000.0,91650000.0,0.0,8.73
+215,Yinglian Xie,DataVisor,Peking University,Computer Science,BS,Carnegie Mellon University,Computer Science,PhD,8,7.0,5 to 10,0,0,1,0,0,1,0,0,0,0.0,15740000.0,51740000.0,0.0,3.29
+216,Anil Stocker,MarketInvoice,University of Cambridge,Economics,BA,No Master,No Master,No Master,4,5.0,2 to 5,0,0,0,0,0,0,0,0,0,9500000.0,55000000.0,0.0,5.79,0.0
+217,Rajiv Khemani,Innovium Inc,Indian Institute of Technology Delhi,Computer Science,BE,Stanford University,Business,MBA,6,23.0,Up to 10,1,0,1,0,0,0,1,0,0,0.0,33270000.0,98450000.0,0.0,2.96
+218,Drew McElroy,Transfix,Georgetown University,Business,BS,No Master,No Master,No Master,4,9.0,5 to 10,0,0,0,0,0,0,0,0,0,6410000.0,25810000.0,62000000.0,4.03,2.4
+219,Joseph Fasone,Pilot,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,4.0,2 to 5,0,0,0,0,0,0,0,0,0,16000000.0,74550000.0,92630000.0,4.66,1.24
+220,Allan Wille,Klipfolio,Carleton University,Design,BA,No Master,No Master,No Master,4,2.0,Less than 2,1,0,1,0,0,0,0,0,0,5430000.0,0.0,0.0,0.0,0.0
+221,Philippe Gelis,Kantox,Not provided,Not provided,Not provided,Instituto TecnolÃ³gico y de Estudios Superiores de Monterrey,Business,MBA,0,6.0,5 to 10,0,1,0,0,0,0,0,0,0,0.0,26600000.0,0.0,0.0,0.0
+222,Mark Trefgarne,LiveRail,UCL,Economics,BA,No Master,No Master,No Master,4,4.0,2 to 5,0,0,0,1,0,0,0,0,0,0.0,11490000.0,56000000.0,0.0,4.87
+223,Nate Quigley,Chatbooks,Brigham Young University,Business,BS,Harvard University,Business,MBA,6,2.0,Less than 2,1,1,0,0,0,0,0,0,0,11200000.0,24000000.0,56500000.0,2.14,2.35
+224,Noah Lang,stride health,Stanford University,Design,BS,No Master,No Master,No Master,4,6.0,5 to 10,0,1,0,0,0,0,1,1,0,0.0,40000000.0,88500000.0,0.0,2.21
+225,Royce Disini,Mobcrush,Santa Clara University,Business,BS,University of California Los Angeles,Business,MBA,6,4.0,2 to 5,2,0,0,1,0,0,0,0,0,11630000.0,55620000.0,102090000.0,4.78,1.84
+226,Tim Hwang,FiscalNote,Princeton University,Political Science,BA,Harvard University,Business,MBA,6,0.0,,0,0,0,0,0,0,0,0,1,0.0,20000000.0,72000000.0,0.0,3.6
+227,Frank Mycroft,Booster Fuels,Princeton University,Engineering,BE,Harvard University,Business,MBA,6,6.0,5 to 10,0,1,1,0,0,0,0,0,1,12000000.0,29150000.0,100000000.0,2.43,3.43
+228,Girish Pancha,StreamSets,Stanford University,Engineering,BA,University of Pennsylvania,Engineering,MEng,6,23.0,Up to 10,0,0,0,1,0,0,1,1,0,0.0,25500000.0,80000000.0,0.0,3.14
+229,Steven Cox,TakeLessons,Eastern Kentucky University,Business,BA,No Master,No Master,No Master,4,13.0,Up to 10,0,0,0,0,0,0,1,0,0,6800000.0,0.0,25000000.0,0.0,0.0
+230,Aaron Bell,AdRoll,Stanford University,Computer Science,BS,No Master,No Master,No Master,4,12.0,Up to 10,0,0,1,0,0,0,0,1,0,0.0,13000000.0,8380000.0,0.0,0.64
+231,Jeff Haynie,Pinpoint,Southern Illinois University Carbondale,Unspecified,Unspecified,No Master,No Master,No Master,4,3.0,2 to 5,2,0,0,0,0,0,0,0,0,0.0,78000000.0,155250000.0,0.0,1.99
+232,Paula Long,DataGravity,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,3.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,34000000.0,121000000.0,0.0,3.56
+233,David Gandler,fuboTV,Boston University,Economics,BA,No Master,No Master,No Master,4,8.0,5 to 10,0,0,0,0,0,0,1,0,0,4150000.0,15500000.0,60000000.0,3.73,3.87
+234,Duncan Lennox,Qstream,University College Dublin,Computer Science,BS,No Master,No Master,No Master,4,6.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,18820000.0,75000000.0,0.0,3.99
+235,Fadzarudin Anuar,FashionValet,Cambridge Tutors College,Unspecified,Unspecified,Imperial College London,Engineering,MS,6,2.0,Less than 2,0,1,0,0,0,0,0,0,0,1000000.0,0.0,0.0,0.0,0.0
+236,John Kobs,Apartment List,Case Western Reserve University,Business,BS,No Master,No Master,No Master,4,5.0,2 to 5,2,0,0,0,0,0,0,0,0,12000000.0,87480000.0,137000000.0,7.29,1.57
+237,Ryan Carson,Treehouse Island,Colorado State University,Computer Science,BS,No Master,No Master,No Master,4,1.0,Less than 2,1,0,0,0,0,0,0,0,0,24300000.0,30730000.0,41920000.0,1.26,1.36
+238,Timothy Ericson,Zagster,Drexel University,Business,BS,No Master,No Master,No Master,4,1.0,Less than 2,0,0,0,0,0,0,0,0,0,4370000.0,22500000.0,33000000.0,5.15,1.47
+239,Sunny Gupta,Apptio,University of South Carolina,Computer Science,BS,No Master,No Master,No Master,4,10.0,5 to 10,1,1,0,0,0,0,0,0,0,16000000.0,23000000.0,60000000.0,1.44,2.61
+240,Naveen Gupta,BirdEye,Birla Institute of Technology and Science Pilani,Engineering,Unspecified,Harvard University,Business,MBA,6,15.0,Up to 10,0,0,1,1,0,0,0,0,0,0.0,36000000.0,110000000.0,0.0,3.06
+241,Awais Nemat,PLUMgrid,NED University of Engineering and Technology,Engineering,BA,Stanford University,No Master,No Master,4,15.0,Up to 10,1,0,0,1,0,0,0,0,0,12000000.0,23000000.0,42310000.0,1.92,1.84
+242,Brynne Kennedy,MOVE Guides,Yale University,History,BA,London Business School,Business,MBA,6,4.0,2 to 5,0,0,0,0,0,0,0,0,1,7000000.0,20000000.0,36780000.0,2.86,1.84
+243,Rajesh Ramanand,Signifyd,Tulane University,Computer Science,BA,Tulane University,No Master,MS,6,10.0,5 to 10,0,0,1,1,0,0,0,0,0,11440000.0,23310000.0,95500000.0,2.04,4.1
+244,Ryan Watts,Denali Therapeutics,University of Utah,Biology,BA,Stanford University,Biology,PhD,8,11.0,Up to 10,0,0,1,1,0,0,0,0,0,0.0,269690000.0,1130000000.0,0.0,4.19
+245,Amir Haleem,Helium Systems,University of Manchester,Cognitive Science,BS,No Master,No Master,No Master,4,10.0,5 to 10,1,0,0,1,0,0,0,0,0,0.0,40680000.0,81000000.0,0.0,1.99
+246,Blair Harrison,Frequency,University of Bristol,Computer Science,BE,No Master,No Master,No Master,4,0.0,,2,0,0,0,0,0,0,0,0,0.0,28860000.0,0.0,0.0,0.0
+247,Zach Supalla,Particle,Dartmouth College,Cognitive Science,BA,Northwestern University,Business,MBA,6,3.0,2 to 5,0,1,0,0,0,0,0,0,1,14000000.0,26000000.0,70000000.0,1.86,2.69
+248,Michael Tiffany,White Ops,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,4.0,2 to 5,1,0,1,1,0,0,0,0,0,0.0,29000000.0,71000000.0,0.0,2.45
+249,Hesky Kutscher,CareDox,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,3.0,2 to 5,0,0,0,0,0,0,1,0,0,0.0,19450000.0,0.0,0.0,0.0
+250,Justin Zhu,Iterable,Carnegie Mellon University,Computer Science,BS,No Master,No Master,No Master,4,2.0,Less than 2,0,0,0,1,1,0,0,0,0,0.0,28000000.0,125000000.0,0.0,4.46
+251,Prakash Nanduri,Paxata,University of Texas Austin,Computer Science,BS,INSEAD,Business,MBA,6,11.0,Up to 10,1,0,0,0,0,0,0,0,0,0.0,10000000.0,35000000.0,0.0,3.5
+252,Ben Anderson,Amino Apps,Northeastern University,Music,BS,No Master,No Master,No Master,4,1.0,Less than 2,0,0,0,0,0,0,0,0,0,3000000.0,22000000.0,55000000.0,7.33,2.5
+253,Laszlo Kishonti,AImotive,Karinthy Frigyes Gimnazium,English,Unspecified,Budapest Business School,Economics,No Master,4,11.0,Up to 10,1,0,0,0,0,0,0,0,0,10020000.0,0.0,0.0,0.0,0.0
+254,Tyler Bosmeny,Clever,Harvard University,Mathematics,BA,Harvard University,Satistics,MA,6,4.0,2 to 5,0,0,0,0,0,0,0,0,1,0.0,49000000.0,248000000.0,0.0,5.06
+255,Marc Worth,Stylus Media,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,0,0,0,0,0,0,0,22360000.0,0.0,0.0,0.0,0.0
+256,Steve Nasiri,InvenSense,University of California Berkeley,Unspecified,BS,Santa Clara University,Business,MBA,6,0.0,,0,0,0,1,0,0,0,1,0,0.0,20000000.0,48000000.0,0.0,2.4
+257,Dan Burkhart,Recurly,University of Pennsylvania,Business,BS,University of California Los Angeles,Business,MBA,6,20.0,Up to 10,0,0,0,0,0,0,1,0,0,5360000.0,19000000.0,58000000.0,3.54,3.05
+258,Michel Feaster,Usermind,Harvard University,Unspecified,Not provided,No Master,No Master,No Master,0,14.0,Up to 10,0,0,0,0,0,0,0,0,1,0.0,24000000.0,60000000.0,0.0,2.5
+259,Stephan Heller,WATCHMASTER,UniversitÃ¤t Wien,Business,BA,ESCP Europe,Business,MS,6,4.0,2 to 5,0,1,0,1,0,0,1,0,0,5000000.0,18000000.0,0.0,3.6,0.0
+260,Chris Ovitz,Workpop,University of California Los Angeles,History,BA,No Master,No Master,No Master,4,3.0,2 to 5,1,0,1,0,0,0,1,0,0,6880000.0,26000000.0,0.0,3.78,0.0
+261,Amitabh Sinha,Workspot,Indian Institute of Technology Kanpur,Computer Science,BE,No Master,No Master,No Master,4,11.0,Up to 10,2,0,1,0,0,0,0,0,0,0.0,14000000.0,28000000.0,0.0,2.0
+262,Nancy Hua,Apptimize,Massachusetts Institute of Technology,Computer Science,BS,No Master,No Master,No Master,4,5.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,21000000.0,36000000.0,0.0,1.71
+263,Guru Pangal,CloudSimple,Jawaharlal Nehru Technological University,Engineering,BA,Utah State University,Computer Science,MS,6,22.0,Up to 10,3,0,0,0,0,1,1,0,0,0.0,40000000.0,85000000.0,0.0,2.12
+264,Oliver Roup,VigLink,Massachusetts Institute of Technology,Computer Science,BS,Harvard University,Business,MBA,6,10.0,5 to 10,0,1,0,0,0,1,0,0,0,2000000.0,5000000.0,20000000.0,2.5,4.0
+265,Yuri Frayman,ZENEDGE,Drexel University,Business,Unspecified,No Master,No Master,No Master,4,0.0,,4,0,0,1,0,0,0,0,0,0.0,7700000.0,14000000.0,0.0,1.82
+266,"Jason Langheier, MD, MPH",Zipongo,Williams College,Cognitive Science,BA,Duke University,Medicine,PhD,8,13.0,Up to 10,2,1,0,0,0,0,0,0,0,0.0,23000000.0,51000000.0,0.0,2.22
+267,Jonathan Mendez,Yieldbot,University of Southern California,Unspecified,Unspecified,No Master,No Master,No Master,4,2.0,Less than 2,3,1,0,0,0,0,0,0,0,4310000.0,30000000.0,68000000.0,6.96,2.27
+268,Ben Jacobs,Whistle,Peking University,Unspecified,Unspecified,Yale University,International Relations,MA,6,3.0,2 to 5,0,1,0,0,0,0,0,0,0,0.0,21000000.0,27000000.0,0.0,1.29
+269,Rachel E. Haurwitz,Caribou Biosciences,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,1,0,0,0,0,0,0,0.0,29000000.0,144000000.0,0.0,4.97
+270,David Yeom,Hollar,University of California Riverside,Business,BA,University of Southern California,Business,MBA,6,17.0,Up to 10,0,1,0,1,0,0,0,0,0,0.0,50000000.0,104000000.0,0.0,2.08
+271,Guido Kovalskys,Nearpod,University of Buenos Aires,Economics,Unspecified,University of California Berkeley,Business,MBA,6,6.0,5 to 10,4,0,1,0,0,0,0,0,0,0.0,39000000.0,105000000.0,0.0,2.69
+272,Tasso Roumeliotis,Wave Market,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,5.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,18000000.0,31000000.0,0.0,1.72
+273,Florian Douetteau,Dataiku,Francs-Bourgeois,Unspecified,Unspecified,Ecole normale supÃ©rieure,Computer Science,No Master,4,11.0,Up to 10,0,0,0,0,0,0,0,0,0,17000000.0,47000000.0,154000000.0,2.76,3.28
+274,Josh Reich,Simple Finance Technology,University of Melbourne,Mathematics,BS,Carnegie Mellon University,Business,MBA,6,16.0,Up to 10,0,1,0,0,0,0,0,0,0,0.0,10000000.0,40000000.0,0.0,4.0
+275,Mona Bijoor,"JOOR, Inc.",University of Pennsylvania,Biology,BA,University of Pennsylvania,Business,MBA,6,9.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,10000000.0,58000000.0,0.0,5.8
+276,Ian Crosby,Bench Accounting,Carleton University,Sociology,BA,British Columbia Institute of Technology,Journalism,No Master,4,3.0,2 to 5,0,0,0,0,0,0,0,0,0,7000000.0,0.0,0.0,0.0,0.0
+277,Borja Rossell,Verse,Technical University of Catalonia,Engineering,Unspecified,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,6000000.0,33000000.0,95000000.0,5.5,2.88
+278,Anmol Madan,Ginger.io,University of Pune,Engineering,BE,Massachusetts Institute of Technology,Sociology,PhD,8,2.0,Less than 2,1,0,1,1,0,1,0,0,0,6000000.0,18000000.0,50000000.0,3.0,2.78
+279,Michael Simon,LogMeIn,University of Notre Dame,Engineering,BS,Washington University in St. Louis,Business,MBA,6,0.0,,0,0,0,0,0,0,0,0,0,0.0,18000000.0,35000000.0,0.0,1.94
+280,Chris Tolles,Topix,Chinese University of Hong Kong,Language,BA,University of California San Diego,Computer Science,MA,6,5.0,2 to 5,1,0,0,0,0,0,0,0,0,0.0,89000000.0,0.0,0.0,0.0
+281,Joshua Hoffman,Zymergen,University of California Berkeley,Sociology,BA,Yale University,International Relations,MA,6,17.0,Up to 10,0,1,0,0,0,0,0,1,0,0.0,89000000.0,471000000.0,0.0,5.29
+282,Paul Doersch,Kespry Inc.,Stanford University,Computer Science,BS,No Master,No Master,No Master,4,2.0,Less than 2,0,0,0,0,0,0,0,1,0,0.0,33000000.0,68000000.0,0.0,2.06
+283,Matthew Bencke,Mighty AI,Harvard University,International Relations,BS,University of California Berkeley,Political Science,PhD,8,17.0,Up to 10,0,0,1,0,0,1,0,0,1,16000000.0,85000000.0,0.0,5.31,0.0
+284,David Gorodyansky,AnchorFree,San Jose State University,Business,BS,No Master,No Master,No Master,4,1.0,Less than 2,1,1,0,0,0,0,0,0,0,0.0,26000000.0,11000000.0,0.0,0.42
+285,Eben Frankenberg,Echodyne,Dartmouth College,Geology,BA,Stanford University,Geophysics,MS,6,23.0,Up to 10,0,0,0,0,0,0,0,0,1,0.0,38000000.0,94000000.0,0.0,2.47
+286,Kevin Busque,Guideline Technologies Inc.,Fitchburg State University,Computer Science,Unspecified,No Master,No Master,No Master,4,12.0,Up to 10,2,0,0,0,0,0,0,0,0,0.0,27000000.0,85000000.0,0.0,3.15
+287,Aashish Dalal,ParkWhiz,Northwestern University,Unspecified,BA,DePaul University,No Master,MS,6,2.0,Less than 2,2,1,0,0,0,0,0,0,0,0.0,9500000.0,7300000.0,0.0,0.77
+288,Prayag Narula,LeadGenius,Netaji Subhas Institute of Technology,Computer Science,BE,University of California Berkeley,Computer Science,MS,6,2.0,Less than 2,0,0,1,0,0,0,0,0,0,17000000.0,25000000.0,43000000.0,1.47,1.72
+289,Andre Durand,Ping Identity Corporation,University of California Santa Barbara,Economics,BA,No Master,No Master,No Master,4,2.0,Less than 2,4,0,0,0,0,0,0,0,0,0.0,10000000.0,18000000.0,0.0,1.8
+290,Ajay Prakash,Rinse,Dartmouth College,Economics,BA,Stanford University,Business,MBA,6,5.0,2 to 5,0,1,0,0,0,0,0,0,1,10000000.0,18000000.0,42000000.0,1.8,2.33
+291,Michael Yavonditte,Yieldmo,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,2.0,Less than 2,0,0,0,0,0,0,0,0,0,0.0,7740000.0,28000000.0,0.0,3.62
+292,Alain Falys,Yoyo Wallet,Middlesex University,Business,BA,No Master,No Master,No Master,4,9.0,5 to 10,2,0,0,0,0,0,0,0,0,8860000.0,0.0,0.0,0.0,0.0
+293,Rodney Rogers,Virtustream,University of Florida,Operations Research,Unspecified,No Master,No Master,No Master,4,7.0,5 to 10,0,1,0,0,0,0,0,0,0,0.0,75000000.0,138000000.0,0.0,1.84
+294,Chuck Ganapathi,Tact,PSG College of Technology,Engineering,BS,Stanford University,Business,MBA,6,13.0,Up to 10,0,1,1,0,0,0,0,0,0,0.0,47500000.0,35000000.0,0.0,0.74
+295,Marcus Ryu,Guidewire Software,Princeton University,Unspecified,BA,University of Oxford,No Master,MA,6,3.0,2 to 5,0,1,0,0,0,0,0,0,1,0.0,8570000.0,58000000.0,0.0,6.77
+296,Brad Birnbaum,Kustomer,Brandeis University,Computer Science,Unspecified,No Master,No Master,No Master,4,1.0,Less than 2,0,0,0,0,0,0,0,0,0,13000000.0,23000000.0,0.0,1.77,0.0
+297,Shoaib Makani,KeepTruckin,London School of Economics,Economics,BS,No Master,No Master,No Master,4,5.0,2 to 5,0,0,0,1,1,0,1,0,0,0.0,30000000.0,68000000.0,0.0,2.27
+298,Roy Burstin,MiTu Network,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,6.0,5 to 10,0,0,0,1,0,0,1,0,0,0.0,12000000.0,59000000.0,0.0,4.92
+299,Mark Johnson,Descartes Labs,Stanford University,Philosophy,Unspecified,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,1,0,1,0,1,0,0.0,25000000.0,160000000.0,0.0,6.4
+300,Todd Sullivan,SpiritShop.com (ACQUIRED),Yale University,Political Science,BA,University of Michigan,Business,MBA,6,0.0,,3,1,1,0,0,0,0,0,1,5000000.0,0.0,0.0,0.0,0.0
+301,Mike Xu,GrubMarket Inc,Xiamen University,Computer Science,BS,University of Wisconsin Madison,Computer Science,MS,6,10.0,5 to 10,0,0,0,0,0,0,0,0,0,4000000.0,19000000.0,79000000.0,4.75,4.16
+302,Carlos Garcia,HYP3R,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,2,0,0,0,0,0,0,0,0,16250000.0,0.0,0.0,0.0,0.0
+303,David Blake,Degreed,Brigham Young University,Economics,BA,No Master,No Master,No Master,4,3.0,2 to 5,1,1,0,0,0,0,0,0,0,0.0,21250000.0,90000000.0,0.0,4.24
+304,Geoff Schmidt,Meteor,Massachusetts Institute of Technology,Unspecified,Not provided,No Master,No Master,No Master,0,0.0,,2,1,0,0,0,0,0,0,0,0.0,38000000.0,76000000.0,0.0,2.0
+305,Richard Rosenblatt,Whipclip / TV Time,Brandeis University,Unspecified,Unspecified,No Master,No Master,No Master,4,0.0,,1,0,0,0,0,0,0,0,0,5000000.0,30000000.0,150000000.0,6.0,5.0
+306,Stephane Dubois,"Xignite, Inc.",Institut de Management International de Paris,Business,BS,Massachusetts Institute of Technology,Operations Research,MS,6,11.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,10000000.0,44000000.0,0.0,4.4
+307,Carlos Diaz,Kwarter,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,16000000.0,0.0,0.0,0.0
+308,Eyal Waldman,Mellanox Technologies,Israel Institute of Technology,Engineering,BS,No Master,No Master,No Master,4,6.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,0.0,125000000.0,0.0,0.0
+309,Jen Andre,Komand,Carnegie Mellon University,Computer Science,Not provided,No Master,No Master,No Master,0,10.0,5 to 10,1,0,0,0,0,0,1,0,0,5600000.0,0.0,0.0,0.0,0.0
+310,Noah Brier,Percolate,New York University,Media,BA,No Master,No Master,No Master,4,5.0,2 to 5,0,0,0,0,0,0,0,0,0,8000000.0,39000000.0,134000000.0,4.88,3.44
+311,Per Pettersen,Impact Radius,Not provided,Not provided,Not provided,University of California Santa Barbara,Computer Science,MS,0,0.0,,2,0,0,0,0,0,0,0,0,0.0,5000000.0,0.0,0.0,0.0
+312,Oz Alon,HoneyBook,The Interdisciplinary Center,Business,BA,No Master,No Master,No Master,4,1.0,Less than 2,0,0,0,0,0,0,0,0,0,0.0,4500000.0,30000000.0,0.0,6.67
+313,Clarence Chui,"Outward, Inc.",University of Michigan,Engineering,BS,Massachusetts Institute of Technology,Engineering,PhD,8,13.0,Up to 10,0,1,1,0,0,0,0,0,0,0.0,21000000.0,32000000.0,0.0,1.52
+314,Kevin Merritt,Socrata,Sierra College,Computer Science,BS,No Master,No Master,No Master,4,6.0,5 to 10,1,0,0,0,0,1,0,0,0,0.0,18000000.0,60500000.0,0.0,3.36
+315,Danny Leffel,Crew,Trinity University,Unspecified,Unspecified,No Master,No Master,No Master,4,6.0,5 to 10,3,0,0,0,0,0,1,0,0,12000000.0,21000000.0,76000000.0,1.75,3.62
+316,James Hind,Carwow,University of Nottingham,Business,Unspecified,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,0.0,9300000.0,9400000.0,0.0,1.01
+317,Neal Creighton,RatePoint,United States Military Academy at West Point,Unspecified,BS,Northwestern University,Business,MBA,6,0.0,,1,0,0,0,0,0,0,0,0,0.0,13000000.0,25000000.0,0.0,1.92
+318,Leigh Drogen,Estimize,University of San Diego,Political Science,BA,Hunter College ,Political Science,MA,6,4.0,2 to 5,2,0,1,1,0,0,0,0,0,6000000.0,20000000.0,36000000.0,3.33,1.8
+319,Arijit Sengupta,BeyondCore,Stanford University,Computer Science,BS,Harvard University,Business,MBA,6,5.0,2 to 5,0,0,0,1,0,1,0,1,0,0.0,28500000.0,0.0,0.0,0.0
+320,Ash Ashutosh,Actifio,Kakatiya Institute of Technology & Science,Engineering,BE,Penn State University,Computer Science,MS,6,12.0,Up to 10,2,0,0,0,0,0,0,0,0,0.0,20000000.0,52000000.0,0.0,2.6
+321,Scott Voigt,Homebase.io,Georgia Institute of Technology,Business,BS,University of Pennsylvania,Business,MBA,6,5.0,2 to 5,1,1,0,0,0,0,0,0,0,860000.0,32000000.0,95000000.0,37.21,2.97
+322,Aleksandr Yampolskiy,SecurityScorecard Inc.,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,8.0,5 to 10,0,0,1,0,0,1,0,0,0,5000000.0,28000000.0,71000000.0,5.6,2.54
+323,Susan Tynan,Framebridge,University of Virginia,English,BA,Harvard University,Business,MBA,6,10.0,5 to 10,0,1,0,1,0,0,0,0,0,6000000.0,37500000.0,57500000.0,6.25,1.53
+324,Rick Morrison,Comprehend Systems,Carnegie Mellon University,Computer Science,BS,No Master,No Master,No Master,4,7.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,19000000.0,92000000.0,0.0,4.84
+325,Mike Hurst,Exactuals,Santa Clara University,Business,Unspecified,Stanford University,Business,MS,6,10.0,5 to 10,0,0,1,1,0,0,0,0,0,0.0,20000000.0,0.0,0.0,0.0
+327,Sasan Amini,Clear Labs,University of Tehran,Biology,BS,Princeton University,Biology,PhD,8,3.0,2 to 5,0,0,1,0,0,0,0,0,0,6000000.0,25000000.0,41000000.0,4.17,1.64
+329,Gene Wang,People Power,University of California Berkeley,Computer Science,BA,No Master,No Master,No Master,4,0.0,,1,0,0,0,0,0,0,1,0,4420000.0,8000000.0,25000000.0,1.81,3.12
+331,Jason Liebman,Howcast,Duke University,Political Science,BA,No Master,No Master,No Master,4,9.0,5 to 10,0,0,0,0,1,0,1,0,0,0.0,25000000.0,0.0,0.0,0.0
+333,Maxim Lobovsky,Formlabs,Cornell University,Engineering,BS,Massachusetts Institute of Technology,Media,MS,6,6.0,5 to 10,0,0,1,0,0,0,0,0,1,5000000.0,116000000.0,274000000.0,23.2,2.36
+335,Daniela Perdomo,GoTenna,Tufts University,Unspecified,Unspecified,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,5000000.0,22500000.0,33000000.0,4.5,1.47
+337,Adam Odessky,Sense.ly,University of Illinois Urbana-Champaign,Computer Science,BS,University of San Francisco,Business,MBA,6,14.0,Up to 10,0,0,0,1,0,0,0,0,0,6000000.0,10000000.0,30000000.0,1.67,3.0
+339,Blake Hall,ID.me,Vanderbilt University,Economics,BS,Harvard University,Business,MBA,6,4.0,2 to 5,0,1,1,0,0,0,0,0,0,15000000.0,32000000.0,80000000.0,2.13,2.5
+341,Aaron Gowell,SilverRail Technologies,Northeastern University,Business,BA,No Master,No Master,No Master,4,7.0,5 to 10,0,1,0,0,0,0,0,0,0,0.0,16000000.0,38000000.0,0.0,2.38
+343,Javier de la Torre,CARTO,Universidad PolitÃ©cnica de Madrid,Unspecified,Unspecified,Freie UniversitÃ¤t Berlin,Biology,No Master,4,11.0,Up to 10,1,1,1,0,0,0,0,0,0,0.0,30000000.0,100000000.0,0.0,3.33
+345,Patrick Bosworth,Duetto,University of San Diego,Political Science,BA,Harvard University,Business,MBA,6,8.0,5 to 10,0,0,0,0,0,0,0,0,0,11000000.0,38500000.0,70000000.0,3.5,1.82
+347,Liang Lu,5miles,University of Science and Technology of China,Physics,BS,Southern Methodist University,Physics,PhD,8,2.0,Less than 2,1,0,0,0,0,0,0,0,0,0.0,0.0,300000000.0,0.0,0.0
+349,George Bousis,Raise Marketplace,DePaul University,Political Science,BS,No Master,No Master,No Master,4,0.0,,1,0,0,0,0,0,0,0,0,0.0,25000000.0,93000000.0,0.0,3.72
+351,Reza Mohsin,Speakeasy,Ohio Wesleyan University,Computer Science,BA,California Institute of Technology,Computer Science,BSc,6,12.0,Up to 10,1,0,0,0,0,0,0,0,0,5500000.0,20500000.0,0.0,3.73,0.0
+353,Rujul Zaparde,FlightCar,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,47000000.0,105000000.0,0.0,2.23
+355,Jay Radia,Yieldify,UCL,Economics,BS,No Master,No Master,No Master,4,12.0,Up to 10,0,0,0,0,0,0,1,0,0,11000000.0,54000000.0,0.0,4.91,0.0
+357,Benzi Ronen,Farmigo,Tel-Aviv University,Sociology,BA,University of Michigan,Business,MBA,6,8.0,5 to 10,1,0,1,1,0,1,0,0,0,0.0,6000000.0,56000000.0,0.0,9.33
+359,Tim Weingarten,The Hunt,University of Pennsylvania,Unspecified,Unspecified,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,19500000.0,34500000.0,0.0,1.77
+361,Glen Coates,Handshake,UNSW,Computer Science,BS,No Master,No Master,No Master,4,6.0,5 to 10,0,0,1,0,0,0,0,0,0,6500000.0,28000000.0,54000000.0,4.31,1.93
+363,Zachary Goldstein,Thanx,Dartmouth College,Political Science,BA,Stanford University,Business,MBA,6,4.0,2 to 5,0,1,0,0,0,0,1,0,1,0.0,21000000.0,46000000.0,0.0,2.19
+365,Kevin Lustig,Scientist.com (formerly Assay Depot),Cornell University,Biology,BA,Harvard University,Biology,PhD,8,0.0,,2,0,1,0,0,0,0,0,1,0.0,10000000.0,20000000.0,0.0,2.0
+367,David Ronick,Stash,Brown University,History,BA,Harvard University,Business,MBA,6,2.0,Less than 2,3,1,1,0,0,0,0,0,1,16000000.0,33000000.0,100000000.0,2.06,3.03
+369,Osama Elkady,INCORTA,Ain Shams University,Computer Science,BS,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,0,0,0,0,0,0,20000000.0,38000000.0,60000000.0,1.9,1.58
+371,Alejandro Cosentino,Afluenta,Instituto San JosÃ© de Flores,Business,Unspecified,No Master,No Master,No Master,4,13.0,Up to 10,0,1,0,0,0,0,0,0,0,0.0,12000000.0,0.0,0.0,0.0
+373,Erik Fairbairn,Pod Point,University of Sheffield,Engineering,BE,Stanford University,Business,No Master,4,10.0,5 to 10,1,0,0,1,0,0,0,0,0,31500000.0,0.0,0.0,0.0,0.0
+375,Damian Kimmelman,DueDil,Not provided,Not provided,Not provided,University of St. Andrews,International Relations,MS,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,14000000.0,48000000.0,0.0,3.43
+377,Jeff Flowers,SageCloud,Georgia Institute of Technology,Computer Science,BS,Northeastern University,Business,MBA,6,3.0,2 to 5,2,0,0,0,0,0,0,0,0,10000000.0,0.0,33000000.0,0.0,0.0
+379,Nathan Burba,Survios,Ithaca College,Computer Science,BA,University of Southern California,Media,MA,6,9.0,5 to 10,0,1,1,0,0,0,0,0,0,0.0,16000000.0,46000000.0,0.0,2.88
+381,Brandon Rodman,Weave,Brigham Young University,Business,BS,No Master,No Master,No Master,4,5.0,2 to 5,0,0,0,0,0,0,0,0,0,630000.0,0.0,0.0,0.0,0.0
+383,Eldar Tuvey,Wandera,University of Bristol,Economics,BS,INSEAD,Business,MBA,6,0.0,,1,0,0,0,0,0,0,0,0,14000000.0,29000000.0,0.0,2.07,0.0
+385,Spencer Kimball,Cockroach Labs,University of California Berkeley,Computer Science,BA,No Master,No Master,No Master,4,10.0,5 to 10,0,0,0,0,1,0,0,1,0,26400000.0,145000000.0,268000000.0,5.49,1.85
+387,Toby Olshanetsky,prooV,Tel Aviv University,Engineering,BS,No Master,No Master,No Master,4,0.0,,6,0,0,0,0,0,0,0,0,10000000.0,26000000.0,84000000.0,2.6,3.23
+389,Brett Schulman,Cava Grill,University of Maryland College Park,Unspecified,Unspecified,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,24000000.0,160000000.0,0.0,6.67
+391,Scott Crouch,Mark43,Harvard University,Engineering,BS,No Master,No Master,No Master,4,2.0,Less than 2,0,0,0,0,0,0,0,0,1,6000000.0,28000000.0,116000000.0,4.67,4.14
+393,Lisa Gersh,Goop Inc.,SUNY Binghamton,Political Science,BA,Rutgers University,Law,JD,6,15.0,Up to 10,1,0,0,0,0,0,0,0,0,23500000.0,40000000.0,65000000.0,1.7,1.62
+395,Narges Bani Asadi,Bina Technologies,University of Tehran,Computer Science,BS,Stanford University,Engineering,PhD,8,1.0,Less than 2,0,0,1,0,0,0,0,0,0,0.0,5550000.0,25500000.0,0.0,4.59
+397,Assaf Resnick,BigPanda,University of California Berkeley,Business,BS,No Master,No Master,No Master,4,9.0,5 to 10,0,0,0,0,0,0,0,1,0,4000000.0,23000000.0,66540000.0,5.75,2.89
+399,Timothy Chi,WeddingWire,Cornell University,Operations Research,BS,Tufts University,Operations Research,MS,6,0.0,,1,0,0,0,0,0,0,0,1,0.0,14220000.0,26500000.0,0.0,1.86
+401,Seth Lieberman,SnapApp,Carleton College,Economics,BA,No Master,No Master,No Master,4,1.0,Less than 2,0,1,1,0,0,0,0,0,0,0.0,48000000.0,60000000.0,0.0,1.25
+403,Jud Bowman,Appia,North Carolina School of Science and Mathematics,Unspecified,Unspecified,Stanford University,No Master,No Master,4,0.0,,2,0,0,0,0,0,0,0,0,7210000.0,74550000.0,108000000.0,10.34,1.45
+405,Sean Grundy,Bevi,Princeton University,Philosophy,Unspecified,Massachusetts Institute of Technology,Business,MBA,6,5.0,2 to 5,0,0,0,0,0,0,0,0,1,9000000.0,18500000.0,33000000.0,2.06,1.78
+407,Matiss Ansviesulis,Creamfinance,Lancaster University,Business,BS,No Master,No Master,No Master,4,2.0,Less than 2,1,0,1,0,0,0,0,0,0,0.0,0.0,56000000.0,0.0,0.0
+409,Oren Levy,Zooz,Shenkar College of Engineering,Operations Research,BE,IDC Herzliya,Business,MBA,6,19.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,10000000.0,0.0,0.0,0.0
+411,John West,Whistle Sports,Worcester Polytechnic Institute,Engineering,BS,Harvard University,Business,MBA,6,0.0,,2,0,0,0,0,0,0,0,0,0.0,23000000.0,85000000.0,0.0,3.7
+413,Juha Koponen,Swap.com,Teknillinen korkeakoulu,Physics,BS,Teknillinen korkeakoulu,Physics,PhD,8,14.0,Up to 10,0,0,1,0,0,0,0,0,0,0.0,0.0,56000000.0,0.0,0.0
+415,Tony Mamone,Livingly Media,Dartmouth College,Engineering,BE,Stanford University,Business,MS,6,9.0,5 to 10,0,1,1,1,0,0,1,0,1,0.0,17000000.0,55000000.0,0.0,3.24
+417,Alberto Sheinfeld,Payfully,Universidad CatÃ³lica AndrÃ©s Bello,Unspecified,Unspecified,No Master,No Master,No Master,4,0.0,,1,0,0,0,0,0,0,0,0,5000000.0,0.0,0.0,0.0,0.0
+419,Javier Soltero,Acompli,Carnegie Mellon University,Computer Science,BS,No Master,No Master,No Master,4,6.0,5 to 10,1,0,0,0,0,0,0,0,0,0.0,25000000.0,200000000.0,0.0,8.0
+421,Avner Ronen,Boxee,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,1,0,0,0,0,0,0,0,0,0.0,10700000.0,26200000.0,0.0,2.45
+423,Denise Thomas,ApplePie Capital,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,3.0,2 to 5,0,0,0,0,0,0,0,0,0,12000000.0,27500000.0,56000000.0,2.29,2.04
+425,Jason Oberfest,Mango Health,Colby College,Unspecified,BA,No Master,No Master,No Master,4,11.0,Up to 10,0,1,1,0,0,0,1,0,0,8500000.0,22000000.0,33000000.0,2.59,1.5
+427,Babur Ozden,Maana,University of Texas Austin,Computer Science,BA,Rice University,Business,MBA,6,0.0,,0,0,0,0,0,0,0,0,0,8000000.0,27000000.0,86000000.0,3.38,3.19
+429,Jim Gilliam,NationBuilder,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,2.0,Less than 2,1,0,0,0,0,0,0,0,0,0.0,23000000.0,90000000.0,0.0,3.91
+431,Gregory Mark,Markforged,Massachusetts Institute of Technology,Engineering,BS,Massachusetts Institute of Technology,Engineering,MS,6,0.0,,1,0,0,0,0,0,0,0,0,3000000.0,23500000.0,58000000.0,7.83,2.47
+433,James Foster,ZeroFOX,University of Maryland College Park,Computer Science,Unspecified,University of Pennsylvania,Business,No Master,4,11.0,Up to 10,0,0,1,0,0,0,0,0,0,8000000.0,30500000.0,170000000.0,3.81,5.57
+435,Sam Chandler,Nitro,RMIT University,Unspecified,BA,No Master,No Master,No Master,4,0.0,,2,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+436,Daniel Hegarty,Habito,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,7.0,5 to 10,0,0,0,0,0,0,0,0,0,7500000.0,25000000.0,0.0,3.33,0.0
+438,Alex Freedland,Mirantis,Gubkin Russian State University of Oil and Gas,Mathematics,BS,Santa Clara University,Computer Science,MS,6,8.0,5 to 10,2,0,0,0,0,0,0,0,0,0.0,61000000.0,555550000.0,0.0,9.11
+440,Inder Singh,Kinsa,University of Michigan,Engineering,BS,Massachusetts Institute of Technology,Business,MBA,6,1.0,Less than 2,1,1,0,0,0,0,1,0,0,11500000.0,25000000.0,50000000.0,2.17,2.0
+442,Chandran Sankaran,Zyme Solutions,Indian Institute of Technology Madras,Unspecified,BA,Yale University,Computer Science,MS,6,9.0,5 to 10,0,1,0,0,0,0,0,0,0,0.0,13000000.0,29000000.0,0.0,2.23
+444,Dan Hu,Omni Prime Inc.,Tsinghua University,Engineering,BE,Stanford University,Business,MBA,6,10.0,5 to 10,0,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+445,Sajith Wickramasekara,Benchling,Massachusetts Institute of Technology,Engineering,BS,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,0.0,20420000.0,40000000.0,0.0,1.96
+447,Eric Greenberg,Wrap Media,University of Texas Austin,Business,BA,No Master,No Master,No Master,4,3.0,2 to 5,3,1,1,1,0,0,1,0,0,,10000000.0,40500000.0,,4.05
+449,Erik Eliason,storefront,University of Minnesota,Business,BS,Harvard University,Business,MBA,6,9.0,5 to 10,1,0,0,1,0,0,0,0,0,10000000.0,27540000.0,0.0,2.75,0.0
+451,Nicholas Rellas,Drizly,Boston College,Business,BS,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,11430000.0,50000000.0,75000000.0,4.37,1.5
+453,Brian NeSmith,Arctic Wolf Networks,Massachusetts Institute of Technology,Engineering,BS,No Master,No Master,No Master,4,11.0,Up to 10,0,1,0,1,0,0,0,0,0,0.0,36000000.0,105000000.0,0.0,2.92
+455,John Ham,Ustream,United States Military Academy at West Point,Engineering,BS,No Master,No Master,No Master,4,5.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,40000000.0,0.0,0.0,0.0
+457,Ben Katz,CARD.com,University of Pennsylvania,Biology,BS,University of Pennsylvania,Business,MBA,6,5.0,2 to 5,0,1,0,0,0,0,0,0,0,6000000.0,17000000.0,27000000.0,2.83,1.59
+459,Omer Artun,AgilOne,BoÄ?aziÃ§i University,Engineering,BS,Brown University,Physics,PhD,8,6.0,5 to 10,0,1,1,0,0,0,0,0,0,17500000.0,51000000.0,115500000.0,2.91,2.26
+461,Manan Khurma,CueLearn/Cuemath,Indian Institute of Technology Delhi,Engineering,BE,No Master,No Master,No Master,4,0.0,,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+462,Michael Huang,Glow,University of Georgia,Mathematics,BS,North Carolina State University,Operations Research,MS,6,14.0,Up to 10,0,0,0,1,1,0,0,0,0,19000000.0,27000000.0,86000000.0,1.42,3.19
+464,Asi Sharabi,Wonderbly,Not provided,Not provided,Not provided,London School of Economics,Psychology,PhD,0,7.0,5 to 10,1,0,1,0,0,0,0,0,0,4230000.0,0.0,0.0,0.0,0.0
+466,Brian Berger,BDB Ventures,University of Colorado Boulder,Political Science,BA,Columbia University,Business,MBA,6,5.0,2 to 5,1,1,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0
+467,Benny De-Kalo,Worthy,New York University,Business,BS,Columbia University,Business,MBA,6,5.0,2 to 5,1,0,0,0,0,0,0,0,0,0.0,26300000.0,0.0,0.0,0.0
+469,Ari Tulla,BetterDoctor,Not provided,Not provided,Not provided,No Master,Business,MS,0,9.0,5 to 10,0,0,1,1,0,0,0,0,0,9000000.0,25000000.0,23000000.0,2.78,0.92
+471,Phil Harris,Geofeedia,Ohio State University,Business,BS,Harvard University,Business,MBA,6,2.0,Less than 2,1,0,0,0,0,0,0,0,0,7000000.0,26000000.0,105000000.0,3.71,4.04
+473,Bonnie Crater,Full Circle Insights,Princeton University,Biology,BA,No Master,No Master,No Master,4,16.0,Up to 10,0,1,1,0,0,0,0,0,1,0.0,8500000.0,26000000.0,0.0,3.06
+475,Matt Zitzmann,Kamcord,Massachusetts Institute of Technology,Engineering,BS,No Master,No Master,No Master,4,4.0,2 to 5,0,0,0,1,1,0,0,0,0,0.0,41000000.0,105000000.0,0.0,2.56
+477,Matthew Bellows,Yesware,Brown University,Biology,Unspecified,Babson College,Business,MBA,6,4.0,2 to 5,1,0,0,0,0,0,1,0,1,3500000.0,12220000.0,41000000.0,3.49,3.36
+479,Paul Albright,Captora,James Madison University,Computer Science,BS,No Master,No Master,No Master,4,14.0,Up to 10,0,0,0,0,0,0,1,0,0,0.0,14700000.0,104000000.0,0.0,7.07
+481,Martin Floreani,FloSports,California Polytechnic State University San Luis Obispo,Engineering,BS,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,0.0,4000000.0,93000000.0,0.0,23.25
+483,Hugo Fiennes,Electric Imp,University of Warwick,Computer Science,Unspecified,No Master,No Master,No Master,4,5.0,2 to 5,0,0,0,0,1,0,0,0,0,0.0,27000000.0,62000000.0,0.0,2.3
+485,Eli Singer,Jethro,Pace University,Operations Research,BS,No Master,No Master,No Master,4,11.0,Up to 10,1,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+486,Tal Weiss,OverOps,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,7.0,5 to 10,1,0,0,0,0,0,0,0,0,0.0,12000000.0,57000000.0,0.0,4.75
+488,Ross Shanken,Jornaya,Haverford College,Political Science,BS,No Master,No Master,No Master,4,17.0,Up to 10,0,0,0,0,0,0,0,0,0,6000000.0,32000000.0,50000000.0,5.33,1.56
+490,Don Spear,OpenSesame,Rice University,Engineering,BS,Harvard University,Business,MBA,6,13.0,Up to 10,1,0,0,0,0,0,1,0,0,0.0,17000000.0,0.0,0.0,0.0
+492,Fred Shilmover,InsightSquared,Tufts University,International Relations,BA,Harvard University,Business,MBA,6,13.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,15000000.0,43000000.0,0.0,2.87
+494,Chris Giordano,MiMedia,Bowdoin College,Economics,BA,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,0,0,0,0,0,0,25000000.0,88000000.0,45000000.0,3.52,0.51
+496,Mark T. Lynn,DSTLD,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,0,0,0,0,0,0,0,12000000.0,32000000.0,0.0,2.67,0.0
+498,Jason Brown,Tally Technologies,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,0,0,0,0,0,0,0,9000000.0,50000000.0,0.0,5.56,0.0
+500,Demet Suzan Mutlu,Trendyol Group,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+501,Wen Chu,GWC,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+502,Ran Sarig,Datorama,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,16.0,Up to 10,1,0,0,1,0,0,0,0,0,0.0,10000000.0,51000000.0,0.0,5.1
+504,Asaf Somekh,iguazio,Israel Institute of Technology,Computer Science,BS,IMD Business School,Business,MBA,6,17.0,Up to 10,0,0,0,0,0,0,1,0,0,0.0,0.0,100000000.0,0.0,0.0
+506,Michael Carvin,SmartAsset,Princeton University,Economics,BA,No Master,No Master,No Master,4,5.0,2 to 5,1,0,0,0,0,0,0,0,1,8000000.0,20000000.0,61000000.0,2.5,3.05
+508,Andrej Henkler,Leblon Capital,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,6.0,5 to 10,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+509,Amit Chatterjee,Leap Commerce,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,11.0,Up to 10,2,1,0,0,0,0,1,0,0,0.0,12110000.0,0.0,0.0,0.0
+511,Bob Richards,"Moon Express, Inc.",Ryerson University,Operations Research,BE,Cornell University,Engineering,MEng,6,11.0,Up to 10,4,0,0,0,0,0,0,0,0,0.0,10000000.0,40000000.0,0.0,4.0
+513,Ethan Song,Frank & Oak,University of British Columbia,Engineering,BA,No Master,No Master,No Master,4,2.0,Less than 2,0,1,0,0,0,0,0,0,0,0.0,16200000.0,0.0,0.0,0.0
+515,Jay Desai,PatientPing,University of Michigan,Unspecified,Unspecified,University of Pennsylvania,Business,MBA,6,7.0,5 to 10,0,0,0,0,0,0,1,0,0,0.0,35000000.0,88000000.0,0.0,2.51
+517,Kumar Mehta,Versa Networks,IIT Kharagpur,Engineering,BE,Stanford University,Business,Executive Education,6,8.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,35000000.0,116000000.0,0.0,3.31
+519,Saki Dodelson,Achieve3000,Not provided,Not provided,Not provided,Tel Aviv University,Business,MBA,0,12.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,7000000.0,14000000.0,0.0,2.0
+521,Brian Schechter,HowAboutWe,Marlboro College,Philosophy,BA,Lesley University,Education,MA,6,4.0,2 to 5,0,0,1,0,0,0,0,0,0,0.0,60150000.0,54000000.0,0.0,0.9
+523,Tony Zhao,Agora.io,Peking University,Unspecified,Unspecified,No Master,No Master,No Master,4,7.0,5 to 10,1,0,0,1,0,0,0,0,0,0.0,0.0,100000000.0,0.0,0.0
+525,David Soloff,Premise,Columbia University,English,BA,University of California Berkeley,Economics,PhD,8,8.0,5 to 10,1,0,0,1,0,0,0,0,1,8500000.0,16000000.0,55000000.0,1.88,3.44
+527,Alex Gorelik,Waterline Data,Columbia University,Computer Science,BS,Stanford University,Computer Science,MS,6,11.0,Up to 10,2,1,0,0,0,0,0,0,1,0.0,15000000.0,42000000.0,0.0,2.8
+529,Jeffrey Marrazzo,Spark Therapeutics,University of Pennsylvania,Economics,BA,University of Pennsylvania,Business,MBA,6,6.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,70000000.0,133000000.0,0.0,1.9
+531,Georg Petschnigg,FiftyThree,Columbia University,Computer Science,BS,Stanford University,Design,MEng,6,8.0,5 to 10,1,0,0,1,0,1,0,0,1,7100000.0,93360000.0,190580000.0,13.15,2.04
+533,Amit Narayan,Autogrid,Indian Institute of Technology Kanpur,Engineering,BE,University of California Berkeley,Engineering,PhD,8,3.0,2 to 5,2,0,1,0,0,0,0,0,0,0.0,6530000.0,17350000.0,0.0,2.66
+535,Vinicius Vacanti,YipitData,Harvard University,Mathematics,BA,No Master,No Master,No Master,4,4.0,2 to 5,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+536,Anand Babu Periasamy,"Minio, Inc.",Annamalai University,Computer Science,Unspecified,No Master,No Master,No Master,4,1.0,Less than 2,0,0,1,0,0,0,0,0,0,11000000.0,63000000.0,0.0,5.73,0.0
+538,Manu Mathew,Visual IQ,Rochester Institute of Technology,Engineering,BS,Rochester Institute of Technology,No Master,MS,6,17.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,12130000.0,33180000.0,0.0,2.74
+540,T.J. Clark,TurnKey Vacation Rentals,University of Notre Dame,Biology,BS,Loyola University,Law,JD,6,13.0,Up to 10,0,0,0,0,0,0,0,0,0,17070000.0,42500000.0,65000000.0,2.49,1.53
+542,Nick Francis,Help Scout,Middle Tennessee State University,Business,BS,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,3250000.0,21000000.0,41000000.0,6.46,1.95
+544,Orazio Buzza,Fooda,University of Illinois Urbana-Champaign,Operations Research,BA,No Master,No Master,No Master,4,10.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,12500000.0,28000000.0,0.0,2.24
+546,Bo Lu,FutureAdvisor,University of Illinois Urbana-Champaign,Computer Science,BA,No Master,No Master,No Master,4,6.0,5 to 10,0,0,0,1,0,1,0,0,0,0.0,18000000.0,47000000.0,0.0,2.61
+548,Nikhil Sethi,Adaptly,Northwestern University,Engineering,BS,Stanford University,Business,Executive Education,6,0.0,,2,0,0,0,0,0,0,0,0,4000000.0,14000000.0,47000000.0,3.5,3.36
+550,Saar Yoskovitz,Augury,Israel Institute of Technology,Engineering,BS,No Master,No Master,No Master,4,5.0,2 to 5,1,0,0,0,0,0,0,0,0,7500000.0,28000000.0,68000000.0,3.73,2.43
+552,Kreg Peeler,SpinGo,Brigham Young University,Media,Unspecified,No Master,No Master,No Master,4,0.0,,1,0,1,0,0,0,0,0,0,0.0,16000000.0,0.0,0.0,0.0
+554,Jean-Daniel Guyot,Trainline France,Not provided,Not provided,Not provided,INSA Rouen,Computer Science,MS,0,5.0,2 to 5,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+555,David Perry,Gaikai,Queen's University Belfast,Unspecified,Unspecified,Westwood College,No Master,MS,6,9.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,17000000.0,45000000.0,0.0,2.65
+557,Mallik Sundaram,Mitra Biotech,Indian Institute of Technology Varanasi,Engineering,BS,University of Pennsylvania,Business,MBA,6,0.0,,2,0,1,0,0,0,0,0,0,0.0,0.0,250000000.0,0.0,0.0
+559,Sachin Kamdar,Parsely,New York University,Economics,BA,Pace University,Education,MA,6,4.0,2 to 5,0,1,1,0,0,0,0,0,0,0.0,2400000.0,15000000.0,0.0,6.25
+561,Russell Fradin,Dynamic Signal,University of Pennsylvania,Economics,BS,No Master,No Master,No Master,4,9.0,5 to 10,1,0,0,0,0,0,1,0,0,0.0,30000000.0,80000000.0,0.0,2.67
+563,Aaron Schildkrout,HowAboutWe,Harvard University,Sociology,BA,No Master,No Master,No Master,4,3.0,2 to 5,1,0,1,0,0,0,0,0,1,0.0,60150000.0,53000000.0,0.0,0.88
+565,Rashid Mansoor,Hadean,University of Portsmouth,Computer Science,BS,University of Sussex,Mathematics,PhD,8,0.0,,5,0,1,0,0,0,0,0,0,17000000.0,0.0,0.0,0.0,0.0
+567,John Belizaire,FirstBest,Cornell University,Computer Science,BS,University of Pennsylvania,Business,Executive Education,6,4.0,2 to 5,1,0,0,0,0,0,0,0,1,0.0,26000000.0,23000000.0,0.0,0.88
+569,Jacob Taylor,"Replicat, Inc.",University of California Los Angeles,Computer Science,BS,University of California Los Angeles,Computer Science,MS,6,11.0,Up to 10,3,0,1,0,0,0,0,0,0,8500000.0,20000000.0,0.0,2.35,0.0
+571,Spencer Hutchins,Reflexion Health,Colby College,Economics,BA,Yale University,Business,MBA,6,8.0,5 to 10,0,0,1,0,0,0,1,0,0,9320000.0,22000000.0,35000000.0,2.36,1.59
+573,Sheeroy D. Desai,Gild,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,3.0,2 to 5,0,0,0,0,0,0,0,0,0,6000000.0,17000000.0,53500000.0,2.83,3.15
+575,Jon Radoff,Disruptor Beam,Harvard University,Psychology,Unspecified,No Master,No Master,No Master,4,0.0,,3,0,0,0,0,0,0,0,1,2550000.0,14420000.0,0.0,5.65,0.0
+577,Ola Sars,Soundtrack Your Brand,Copenhagen Business School,Unspecified,Unspecified,Harvard University,Business,No Master,4,3.0,2 to 5,4,0,0,0,0,0,1,0,0,0.0,0.0,8000000.0,0.0,0.0
+579,Jason Kassin,FilmTrack,Vassar College,Unspecified,Unspecified,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,0.0,44000000.0,76120000.0,0.0,1.73
+581,Carlin Wiegner,CubeTree,Stanford University,Interdisciplinary Degree,BS,No Master,No Master,No Master,4,8.0,5 to 10,1,0,0,1,0,0,0,1,0,0.0,9000000.0,20000000.0,0.0,2.22
+583,Nisan Gabbay,Sociable Labs,University of California Berkeley,Operations Research,BS,No Master,No Master,No Master,4,6.0,5 to 10,1,0,0,0,0,0,0,1,0,0.0,4110000.0,26000000.0,0.0,6.33
+585,Angelique Augereau,Zafu,University of British Columbia,Business,BA,Northwestern University,Business,PhD,8,6.0,5 to 10,1,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+586,Richard Price,Academia.edu,University of Oxford,Economics,BA,University of Oxford,Philosophy,PhD,8,0.0,,2,0,1,0,0,0,0,0,0,0.0,25640000.0,47330000.0,0.0,1.85
+588,Vince Passione,"LendKey Technologies, Inc.",NYU Polytechnic University,Computer Science,BS,No Master,No Master,No Master,4,16.0,Up to 10,0,1,1,0,0,0,0,0,0,0.0,18000000.0,43000000.0,0.0,2.39
+590,James Gwertzman,"PlayFab, Inc.",Harvard University,Computer Science,BA,No Master,No Master,No Master,4,12.0,Up to 10,2,0,1,0,0,1,1,0,1,0.0,26050000.0,0.0,0.0,0.0
+592,Sravish Sridhar,Kinvey,University of Texas Austin,Computer Science,BS,No Master,No Master,No Master,4,12.0,Up to 10,0,0,0,1,0,0,1,0,0,5310000.0,19000000.0,38000000.0,3.58,2.0
+594,Hironobu Yoshikawa,Treasure Data,Waseda University,Unspecified,BA,No Master,No Master,No Master,4,10.0,5 to 10,0,0,0,0,0,0,1,0,0,0.0,35000000.0,87800000.0,0.0,2.51
+596,Mike Cook,XOR Data Exchange,Texas State University San Marcos,English,BA,No Master,No Master,No Master,4,16.0,Up to 10,1,0,0,1,0,0,1,0,0,0.0,16460000.0,0.0,0.0,0.0
+598,Amar Arsikere,Infoworks,Not provided,Not provided,Not provided,Iowa State University,Computer Science,MS,0,19.0,Up to 10,1,0,0,0,1,0,0,0,0,0.0,14000000.0,50000000.0,0.0,3.57
+600,Yoshinari Yoshikawa,Miselu Inc.,Hosei University,Unspecified,Jurist Doctor,No Master,No Master,No Master,4,0.0,,3,0,0,0,0,0,0,0,0,0.0,14320000.0,30000000.0,0.0,2.09
+602,Opher Kahane,Origami Logic,Tel Aviv University,Computer Science,BS,No Master,No Master,No Master,4,18.0,Up to 10,2,0,0,0,0,0,0,0,0,0.0,32190000.0,100000000.0,0.0,3.11
+604,McKay Thomas,"First Opinion, Inc.",Brigham Young University,Unspecified,Not provided,No Master,No Master,No Master,0,0.0,,2,0,0,0,0,0,0,0,0,0.0,0.0,22190000.0,0.0,0.0
+606,Eugene Danilkis,Mambu,University of British Columbia,Computer Science,BS,Carnegie Mellon University,Computer Science,MS,6,4.0,2 to 5,0,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+607,Noah Ready-Campbell,Twice,University of Pennsylvania,Economics,BS,University of Pennsylvania,Computer Science,MEng,6,1.0,Less than 2,0,0,0,1,1,0,0,0,0,0.0,20700000.0,0.0,0.0,0.0
+609,Daniel Roth,Semantic Machines,Trinity College Hartford,Biology,BA,No Master,No Master,No Master,4,0.0,,3,0,0,0,0,0,0,0,0,0.0,34000000.0,112380000.0,0.0,3.31
+611,David Friedman,Ayla Networks,Colgate University,History,BA,University of Michigan,Business,MBA,6,17.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,15350000.0,45200000.0,0.0,2.94
+613,Steven Lam,GOGOVAN,University of California Berkeley,Business,BS,No Master,No Master,No Master,4,2.0,Less than 2,0,0,0,0,0,0,0,1,0,0.0,0.0,100000000.0,0.0,0.0
+615,Philippe Corrot,Mirakl,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,3.0,2 to 5,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+616,Joshua Feast,Cogito Corporation,Massey University,Engineering,BE,Massachusetts Institute of Technology,Business,MBA,6,6.0,5 to 10,1,1,0,0,0,1,0,0,0,0.0,21000000.0,60000000.0,0.0,2.86
+618,David Vinca,eSpark,Penn State University,Business,BS,University of Chicago,Business,MBA,6,8.0,5 to 10,0,1,0,0,0,0,0,0,0,5000000.0,13700000.0,0.0,2.74,0.0
+620,Shaun Ritchie,Teem,Brigham Young University,Business,BS,University of Utah,Business,MBA,6,0.0,,0,0,0,0,0,0,0,0,0,5440000.0,17630000.0,41560000.0,3.24,2.36
+622,Marc Fenigstein,Alta Motors,Dartmouth College,Engineering,BA,Dartmouth College,Operations Research,MEng,6,8.0,5 to 10,1,1,0,0,0,0,0,0,1,0.0,25500000.0,0.0,0.0,0.0
+624,Mike Harris,Zonoff,Purdue University,Computer Science,BS,No Master,No Master,No Master,4,0.0,,3,0,1,0,0,0,0,0,0,0.0,11640000.0,108000000.0,0.0,9.28
+626,Gregg Freishtat,SalesWise,Boston University,Philosophy,Jurist Doctor,University of Maryland,Law,JD,6,0.0,,1,0,0,0,0,0,0,0,0,0.0,10270000.0,0.0,0.0,0.0
+628,Andrew Blackmon,The Black Tux,Pepperdine University,English,BA,HEC Paris,Business,MBA,6,2.0,Less than 2,1,0,0,0,0,0,0,0,0,11130000.0,43480000.0,0.0,3.91,0.0
+630,Thomas Noyes,Commerce Signals,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,22.0,Up to 10,0,0,0,0,0,0,1,0,0,0.0,17000000.0,36000000.0,0.0,2.12
+632,Nadia Shalaby,Arctic Sand Technologies,Not provided,Not provided,Not provided,Massachusetts Institute of Technology,Computer Science,PhD,0,24.0,Up to 10,1,0,1,1,0,0,0,0,0,0.0,21630000.0,48790000.0,0.0,2.26
+634,Eric Heil,RightCare Solutions,University of Pennsylvania,Operations Research,BS,University of Pennsylvania,Business,MBA,6,6.0,5 to 10,0,0,0,0,0,0,1,0,0,0.0,4410000.0,13000000.0,0.0,2.95
+636,Rishi Bali,YOGASMOGA,Not provided,Not provided,Not provided,Columbia University,No Master,MS,0,14.0,Up to 10,2,0,0,0,0,0,0,0,0,0.0,38000000.0,74000000.0,0.0,1.95
+638,Brett Galloway,Xova Labs,Stanford University,Engineering,BS,Stanford University,Engineering,MS,6,17.0,Up to 10,1,0,0,0,0,0,0,1,0,8000000.0,0.0,0.0,0.0,0.0
+640,David Norris,MD Insider,University of Texas Dallas,Computer Science,BS,No Master,No Master,No Master,4,5.0,2 to 5,4,0,1,0,0,0,0,0,0,24000000.0,0.0,36000000.0,0.0,0.0
+642,Anna Zornosa,Ruby Ribbon,Not provided,Not provided,Not provided,University of Wisconsin Madison,Business,MA,0,7.0,5 to 10,1,0,1,0,0,0,1,0,0,0.0,9500000.0,25000000.0,0.0,2.63
+644,Lisa Stone,BlogHer,Wellesley College,Political Science,BA,Harvard University,No Master,No Master,4,11.0,Up to 10,0,0,0,0,0,1,0,0,0,0.0,9000000.0,22000000.0,0.0,2.44
+646,Scott Tilton,Hookit,Elon University,Biology,BS,Mercy College,Business,MS,6,0.0,,0,0,1,0,0,0,0,0,0,0.0,2250000.0,15000000.0,0.0,6.67
+648,Geoff Tate,Flex Logix Technologies,University of Alberta,Computer Science,BS,Santa Clara University,No Master,MEng,6,11.0,Up to 10,2,0,1,0,0,0,0,0,0,1740000.0,24400000.0,62000000.0,14.02,2.54
+650,Adam Healey,"Borrowed & Blue, Inc.",University of Virginia,Business,BS,University of Virginia,Business,MBA,6,2.0,Less than 2,2,0,1,0,0,0,0,0,0,12590000.0,23850000.0,0.0,1.89,0.0
+652,Slavik Markovich,Demisto,Israel Institute of Technology,Computer Science,BS,No Master,No Master,No Master,4,10.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,20000000.0,75000000.0,0.0,3.75
+654,Brad Hunstable,Ustream,United States Military Academy at West Point,Operations Research,BS,Ohio State University,Business,MBA,6,4.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,40200000.0,0.0,0.0,0.0
+656,Jonathan Cedar,BioLite,Dartmouth College,Unspecified,Unspecified,No Master,No Master,No Master,4,6.0,5 to 10,0,0,0,0,0,0,0,0,1,0.0,8820000.0,30460000.0,0.0,3.45
+658,Gregg Spiridellis,JibJab,Rutgers University,Business,BS,University of Pennsylvania,Business,MBA,6,4.0,2 to 5,0,0,0,0,0,0,0,0,0,0.0,32670000.0,42980000.0,0.0,1.32
+660,Serge Saxonov,10X Genomics,Harvard University,Mathematics,BA,Stanford University,Biology,PhD,8,0.0,,1,0,0,0,0,0,0,0,1,26000000.0,56000000.0,222000000.0,2.15,3.96
+662,Hani Elias,Procured Health,Harvard University,Sociology,BA,Harvard University,Law,JD,6,3.0,2 to 5,1,1,0,0,0,0,0,0,1,0.0,12650000.0,33490000.0,0.0,2.65
+664,Sean Suchter,Pepperdata,California Institute of Technology,Unspecified,Unspecified,No Master,No Master,No Master,4,14.0,Up to 10,0,0,0,0,0,1,0,0,0,8180000.0,13600000.0,41440000.0,1.66,3.05
+666,Veer Gidwaney,Maxwell Health,University of Western Ontario,Unspecified,Unspecified,No Master,No Master,No Master,4,0.0,,2,0,0,0,0,0,0,0,0,4120000.0,26160000.0,82000000.0,6.35,3.13
+668,Mio Babic,iStreamPlanet,Montana State University Billings,Economics,BS,No Master,No Master,No Master,4,0.0,,0,0,0,0,0,0,0,0,0,0.0,65450000.0,185000000.0,0.0,2.83
+670,Brian Biles,Datrium,University of California Santa Cruz,Computer Science,BA,No Master,No Master,No Master,4,21.0,Up to 10,0,0,0,1,0,0,1,0,0,0.0,60780000.0,197000000.0,0.0,3.24
+672,Bryan Burkhart,H.BLOOM,University of Pennsylvania,Business,BS,No Master,No Master,No Master,4,5.0,2 to 5,0,0,1,0,0,0,1,0,0,0.0,33850000.0,68250000.0,0.0,2.02
+674,Abe Smith,Dealflo,UCL,Architecture,BS,No Master,No Master,No Master,4,12.0,Up to 10,3,0,0,0,0,0,0,0,0,0.0,24300000.0,43400000.0,0.0,1.79
+676,Justin Effron,ALICE,University of Pennsylvania,History,BA,No Master,No Master,No Master,4,1.0,Less than 2,0,1,0,0,0,0,0,0,0,0.0,17500000.0,38750000.0,0.0,2.21
+678,Michael Duffy,CITYBASE,Purdue University,Unspecified,BS,No Master,Business,MBA,6,7.0,5 to 10,0,0,0,0,0,0,0,0,0,0.0,10000000.0,20000000.0,0.0,2.0
+680,Darrius Thompson,SweetLabs,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,9.0,5 to 10,2,0,0,0,0,0,0,0,0,0.0,10500000.0,28220000.0,0.0,2.69
+682,Evan Liang,LeanData,Stanford University,Operations Research,BS,No Master,Business,MBA,6,9.0,5 to 10,0,1,0,1,0,1,1,1,0,6000000.0,17000000.0,46400000.0,2.83,2.73
+684,BC Krishna,MineralTree,Birla Institute of Technology and Science Pilani,Unspecified,Unspecified,No Master,Media,MS,6,0.0,,1,0,0,0,0,0,0,0,0,4340000.0,19860000.0,43940000.0,4.58,2.21
+686,P.J. Gunsagar,Kidaptive,University of California Los Angeles,Political Science,BA,Stanford University,Law,JD,6,4.0,2 to 5,1,0,0,0,0,0,0,0,0,0.0,0.0,27250000.0,0.0,0.0
+688,Jules Pieri,The Grommet,University of Michigan,Design,BA,No Master,Business,MBA,6,16.0,Up to 10,0,1,1,0,0,0,0,0,0,0.0,9400000.0,0.0,0.0,0.0
+690,Brenda Schmidt,"Solera Health, Inc.",Indiana University Bloomington,Biology,BS,No Master,Business,No Master,4,19.0,Up to 10,0,0,1,0,0,0,0,0,0,9000000.0,26500000.0,74000000.0,2.94,2.79
+692,Russell Tencer,United Wind,Fashion Institute of Technology,Design,Unspecified,No Master,No Master,No Master,4,10.0,5 to 10,2,0,0,0,0,0,0,0,0,0.0,0.0,13000000.0,0.0,0.0
+694,Grant Gordon,Artemis Health,Brigham Young University,Operations Research,BS,No Master,No Master,No Master,4,15.0,Up to 10,0,1,1,1,0,0,0,0,0,6000000.0,26400000.0,64000000.0,4.4,2.42
+696,Dan Murillo,Little Black Bag,Amherst College,Computer Science,BA,Stanford University,Business,MBA,6,4.0,2 to 5,0,0,0,1,0,1,0,0,0,0.0,10740000.0,40150000.0,0.0,3.74
+698,Somrat Niyogi,Stitch,University of Texas Austin,Computer Science,BS,No Master,No Master,No Master,4,6.0,5 to 10,1,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0
+699,Jason Gardner,Magenta Therapeutics,Cambridge University,Chemistry,BA,No Master,Biology,PhD,8,18.0,Up to 10,0,0,1,0,0,0,0,0,0,0.0,50000000.0,250000000.0,0.0,5.0
+701,Russell Fadel,ThingWorx,Duke University,Engineering,BS,No Master,No Master,No Master,4,2.0,Less than 2,1,0,0,0,0,0,0,0,0,0.0,4800000.0,19070000.0,0.0,3.97
+703,Gerardo Obregon,Prestadero,Universidad Iberoamericana Ciudad de MÃ©xico,Chemistry,BE,Stanford University,Business,Executive Education,6,6.0,5 to 10,0,0,0,0,0,0,0,0,0,1400000.0,0.0,0.0,0.0,0.0
+705,Peter Bauer,Mimecast,Institute of Marketing Management South Africa,Business,Unspecified,No Master,No Master,No Master,4,0.0,,2,1,0,0,0,0,0,0,0,0.0,108500000.0,330000000.0,0.0,3.04
+707,Brent Grinna,EverTrue,Brown University,International Relations,BA,No Master,Business,MBA,6,4.0,2 to 5,0,1,1,0,0,0,0,0,1,6000000.0,14000000.0,30000000.0,2.33,2.14
+709,Pete Foley,Wave Computing,Rice University,Engineering,BS,No Master,Computer Science,MS,6,14.0,Up to 10,1,0,0,1,0,0,0,0,0,0.0,14000000.0,0.0,0.0,0.0
+711,Monisha Perkash,Lumo Bodytech,Yale University,Psychology,BA,Stanford University,Business,MBA,6,2.0,Less than 2,1,0,0,1,0,0,0,0,1,1340000.0,21310000.0,40650000.0,15.9,1.91
+713,Elie Seidman,Oyster.com,University of Pennsylvania,Engineering,BE,No Master,No Master,No Master,4,2.0,Less than 2,1,0,0,1,0,1,0,0,0,0.0,18200000.0,36600000.0,0.0,2.01
+715,Tom Costello,Cuil,Not provided,Not provided,Not provided,Stanford University,Business,MBA,0,19.0,Up to 10,0,0,1,0,0,0,0,0,0,0.0,34000000.0,221000000.0,0.0,6.5
+717,Zackary King,SHYFT,Bentley University,Computer Science,Unspecified,No Master,No Master,No Master,4,7.0,5 to 10,1,0,0,0,0,0,0,0,0,0.0,44300000.0,100000000.0,0.0,2.26
+719,Malcolm Cowley,Performance Horizon,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,1,0,0,0,0,0,0,0,0,2600000.0,22000000.0,0.0,8.46,0.0
+721,Ned Moorfield,GoCatch,University of Adelaide,Computer Science,BE,No Master,Business,MBA,6,4.0,2 to 5,0,1,0,0,0,0,0,0,0,2000000.0,12600000.0,19740000.0,6.3,1.57
+723,Udaynandan Reddy Padi,YUPPTV,Delhi College of Engineering,Engineering,BE,No Master,No Master,No Master,4,13.0,Up to 10,0,0,0,0,0,0,1,0,0,25000000.0,0.0,0.0,0.0,0.0
+725,Jonathan Brassington,LiquidHub,Misericordia University,Computer Science,BS,No Master,Engineering,MS,6,5.0,2 to 5,0,0,1,0,0,0,0,0,0,0.0,0.0,170000000.0,0.0,0.0
+727,Nicolas Tejerina,Navent,Universidad Torcuato Di Tella,International Relations,BA,No Master,Business,No Master,4,5.0,2 to 5,0,1,0,0,0,0,0,0,0,0.0,0.0,30000000.0,0.0,0.0
+729,Heath Wells,NuORDER,University of Adelaide,Business,BA,No Master,No Master,No Master,4,10.0,5 to 10,0,0,0,0,0,0,1,0,0,0.0,10000000.0,34500000.0,0.0,3.45
+731,Henry Wong,SS8 Networks,University of Utah,Economics,BS,No Master,Business,MBA,6,17.0,Up to 10,5,0,0,0,0,0,1,0,0,0.0,25000000.0,75000000.0,0.0,3.0
+733,Jeff Ma,tenXer,Massachusetts Institute of Technology,Engineering,BS,No Master,No Master,No Master,4,4.0,2 to 5,1,0,0,0,0,0,0,0,0,0.0,6300000.0,15000000.0,0.0,2.38
+735,John Squire,DynamicAction,University of California Davis,Chemistry,BS,No Master,Business,MBA,6,13.0,Up to 10,0,0,0,1,0,0,0,0,0,0.0,6000000.0,80000000.0,0.0,13.33
+737,John Poisson,Wantful,Boston University,Film,BS,No Master,No Master,No Master,4,10.0,5 to 10,2,0,1,1,0,0,0,0,0,0.0,24280000.0,0.0,0.0,0.0
+739,Matt Dalio,ENDLESS,Harvard University,Psychology,BA,Stanford University,Business,MBA,6,1.0,Less than 2,1,0,0,0,0,0,0,0,1,0.0,71000000.0,106000000.0,0.0,1.49
+741,Mukundu Kumaran,C1X Inc.,Anna University,Engineering,BE,No Master,No Master,No Master,4,17.0,Up to 10,1,0,0,0,0,0,0,0,0,0.0,14500000.0,61000000.0,0.0,4.21
+743,Marc J. Gorlin,Roadie,Not provided,Not provided,Not provided,No Master,No Master,No Master,0,0.0,,0,0,0,0,0,0,0,0,0,0.0,36000000.0,0.0,0.0,0.0
+745,Omri Iluz,PerimeterX,Tel Aviv University,Computer Science,BS,No Master,No Master,No Master,4,13.0,Up to 10,0,0,0,1,0,0,1,0,0,11000000.0,32500000.0,54000000.0,2.95,1.66
+747,Terry Angelos,TrialPay,University of the Witwatersrand,Engineering,BS,No Master,Business,MBA,6,4.0,2 to 5,1,0,0,1,0,0,0,0,0,0.0,14000000.0,58000000.0,0.0,4.14
+749,Victoria Livschitz,"Tonomi, Inc.",Kharkiv State University,Mathematics,BS,Stanford University,Computer Science,No Master,4,13.0,Up to 10,1,0,0,0,0,0,0,0,0,7800000.0,0.0,0.0,0.0,0.0
+751,Drew Schiller,Validic,University of Iowa,Computer Science,BA,No Master,No Master,No Master,4,0.0,,2,0,1,0,0,0,0,0,0,5500000.0,22600000.0,49250000.0,4.11,2.18
+753,Megan Gardner,Plum District,Smith College,History,BA,No Master,Business,MBA,6,8.0,5 to 10,0,0,0,0,0,0,1,0,0,0.0,4600000.0,16000000.0,0.0,3.48
+755,Cheng Liu,Eureka Therapeutics,Peking University,Biology,BS,No Master,No Master,PhD,8,9.0,5 to 10,0,0,1,0,0,0,0,0,0,0.0,6260000.0,12510000.0,0.0,2.0
+757,Haresh Patel,Mercatus,University of Notre Dame,Engineering,BA,No Master,No Master,No Master,4,23.0,Up to 10,0,0,0,0,0,0,1,0,0,0.0,12000000.0,36800000.0,0.0,3.07
+759,Sachin Katti,Kumu Networks,IIT Bombay,Engineering,BE,No Master,Computer Science,PhD,8,9.0,5 to 10,1,0,1,0,0,0,0,0,0,0.0,25350000.0,59720000.0,0.0,2.36
+761,Jason Ricci,Fluxx,North Carolina State University,Unspecified,Unspecified,No Master,No Master,No Master,4,2.0,Less than 2,0,0,0,1,0,0,0,0,0,0.0,33200000.0,68000000.0,0.0,2.05
+763,Manik Singh,Threadflip,University of Pune,Engineering,BE,No Master,Computer Science,MS,6,11.0,Up to 10,0,0,0,1,0,0,0,0,0,7000000.0,25000000.0,51000000.0,3.57,2.04
+765,Rob Salvatore,Tongal,Boston College,Business,Unspecified,No Master,Business,MBA,6,9.0,5 to 10,0,0,0,0,0,0,0,0,0,2220000.0,2470000.0,48150000.0,1.11,19.49
+767,Vikas Jha,Teracent,Indian Institute of Technology Delhi,Computer Science,BE,No Master,Computer Science,PhD,8,8.0,5 to 10,0,0,1,0,0,0,0,0,0,0.0,14700000.0,0.0,0.0,0.0
+769,Jeff Daniel,StarMaker Interactive,Brown University,Business,BA,No Master,No Master,No Master,4,9.0,5 to 10,0,0,0,0,0,0,0,0,1,0.0,14320000.0,28000000.0,0.0,1.96
+771,Pieter van Rooyen,Edico Genome,University of Johannesburg,Engineering,PhD,No Master,No Master,No Master,4,13.0,Up to 10,3,0,1,0,0,0,0,0,0,17000000.0,31000000.0,88000000.0,1.82,2.84
+773,Ujjal Kohli,Rhythm NewMedia,Indian Institute of Technology Delhi,Engineering,BE,No Master,Business,MBA,6,15.0,Up to 10,3,1,0,1,0,0,0,0,0,0.0,19000000.0,54000000.0,0.0,2.84
+775,Karl Wirth,Evergage,Harvard University,Physics,BA,No Master,No Master,No Master,4,9.0,5 to 10,0,0,0,1,0,0,0,0,1,6580000.0,90000000.0,33000000.0,13.68,0.37
+777,David P. Mariani,AtScale,University of California Los Angeles,Economics,BA,No Master,No Master,No Master,4,17.0,Up to 10,1,0,0,1,0,0,0,0,0,6830000.0,22000000.0,58000000.0,3.22,2.64
+779,Andras Forgacs,Modern Meadow,Harvard University,Political Science,BA,No Master,Business,MBA,6,15.0,Up to 10,2,1,0,0,0,0,0,0,1,0.0,50000000.0,148000000.0,0.0,2.96
+781,Robert Carlson,UNIFi Software,University of Utah,Psychology,BA,No Master,Business,MBA,6,21.0,Up to 10,0,0,0,0,0,0,1,0,0,17450000.0,40000000.0,81500000.0,2.29,2.04
+783,Michael Smalls,Hoopla Software,Calvin College,Computer Science,BA,No Master,No Master,No Master,4,16.0,Up to 10,0,0,0,0,0,0,1,0,0,0.0,6000000.0,24000000.0,0.0,4.0
+785,Richard White,UserVoice,North Carolina State University,Computer Science,BA,No Master,No Master,No Master,4,8.0,5 to 10,2,0,0,0,0,0,0,0,0,0.0,3000000.0,15000000.0,0.0,5.0
+787,Kelly Dachtler,The Clymb,Parsons School of Design,Design,Unspecified,No Master,No Master,No Master,4,14.0,Up to 10,0,0,0,0,0,0,0,0,0,0.0,5800000.0,0.0,0.0,0.0
+789,Taku Harada,Peatix,Yale University,History,BA,No Master,No Master,No Master,4,11.0,Up to 10,0,0,0,1,0,0,0,0,1,0.0,14000000.0,30000000.0,0.0,2.14
+791,Simon Lenoir,Rezdy,University of Grenoble,Operations Research,BA,No Master,No Master,MBI,6,9.0,5 to 10,1,0,0,0,0,0,0,0,0,0.0,2000000.0,0.0,0.0,0.0
+793,David Mandell,PivotDesk,Lehigh University,Unspecified,Unspecified,No Master,No Master,No Master,4,6.0,5 to 10,1,1,0,0,0,0,0,0,0,0.0,11000000.0,17000000.0,0.0,1.55
+795,Craig Malloy,Lifesize,United States Naval Academy,Political Science,BS,No Master,Business,MBA,6,5.0,2 to 5,1,0,0,0,0,0,0,0,0,0.0,24000000.0,68000000.0,0.0,2.83
+797,Ben Wolstenholme,Madefire,Central Saint Martins,Design,BA,No Master,No Master,No Master,4,0.0,,1,0,0,0,0,0,0,0,0,4600000.0,15000000.0,26500000.0,3.26,1.77
+799,Cliff Moon,Opsee,University of Delaware,Computer Science,BS,No Master,No Master,No Master,4,6.0,5 to 10,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0
+801,Hesaam Esfandyarpour,Genapsys,Sharif University of Technology,Engineering,BS,Stanford University,Medicine,MS,6,6.0,5 to 10,1,0,1,0,0,0,0,0,0,0.0,34000000.0,267000000.0,0.0,7.85
+803,Marc Ruxin,TastemakerX,Hamilton College,History,BA,No Master,Business,MBA,6,15.0,Up to 10,0,0,0,0,0,0,1,0,0,18000000.0,0.0,0.0,0.0,0.0
+805,Radu B. Rusu,Fyusion,Not provided,Not provided,Not provided,No Master,Computer Science,PhD,0,10.0,5 to 10,0,0,1,0,0,0,0,0,0,0.0,20000000.0,120000000.0,0.0,6.0
+807,Ronni Zehavi,Hibob,Tel Aviv University,History,BA,No Master,No Master,No Master,4,11.0,Up to 10,2,0,0,0,0,0,1,0,0,18340000.0,0.0,0.0,0.0,0.0
