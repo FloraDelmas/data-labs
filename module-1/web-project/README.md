@@ -1,4 +1,4 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+﻿![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
 # Project: API and Web Data Scraping
 
@@ -44,3 +44,6 @@ The following deliverables should be pushed to your Github repo for this chapter
 * [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Stack Overflow Python Requests Questions](https://stackoverflow.com/questions/tagged/python-requests)
 * [StackOverflow BeautifulSoup Questions](https://stackoverflow.com/questions/tagged/beautifulsoup)
+
+
+For the presentation for the link : https://docs.google.com/presentation/d/1LSwnPqLvMzHkm0A57KBKBWnwg0h0NUVbXnKpVQgVfgs/edit#slide=id.g65a9224f54_0_53 
